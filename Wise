@@ -101,8 +101,6 @@ https://ustvgo.tv/syfy-channel-live/
 https://ustvgo.tv/tv-land-live-free/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/usa_network.jpg" group-title="Entertainment", USA Network USA
 https://ustvgo.tv/usa-network-live/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/vh1_us.jpg" group-title="Entertainment", VH1
-http://123tvnow.com/watch/vh1/
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png" group-title="Entertainment", Warner TV
 https://we-play.tv/watching/tv/warner-tv
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/true_xzyte.jpg" group-title="Entertainment", X-Zyte HD
@@ -139,8 +137,6 @@ https://we-play.tv/watching/tv/hbo-family
 https://we-play.tv/watching/tv/hbo-hd
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Movies", HBO HD (Mirror)
 https://www.doomovie-hd.com/?r=tv_view&id=41
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Movies", HBO USA
-http://123tvnow.com/watch/hbo/
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg" group-title="Movies", HBO Hits
 https://we-play.tv/watching/tv/hbo-hits
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg" group-title="Movies", HBO Hits (Mirror)
