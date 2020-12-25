@@ -50,9 +50,9 @@ https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg" group-title="Movies", HBO Hits
 https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_1_hd.jpg" group-title="Sports", BT Sport HD 1
-https://www.doomovie-hd.com/?r=tv_view&id=156
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_2_hd.jpg" group-title="Sports", BT Sport HD 2
-https://www.doomovie-hd.com/?r=tv_view&id=157
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7fbcfe10-347a-11eb-affa-598b7b3bcc90/895058/150303947.png" group-title="Sports", Fox Sports 1
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7fbcfe10-347a-11eb-affa-598b7b3bcc90/895058/150303948.png" group-title="Sports", Fox Sports 2
