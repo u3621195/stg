@@ -101,6 +101,8 @@ https://ustvgo.tv/syfy-channel-live/
 https://ustvgo.tv/tv-land-live-free/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/usa_network.jpg" group-title="Entertainment", USA Network USA
 https://ustvgo.tv/usa-network-live/
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/vh1_us.jpg" group-title="Entertainment", VH1
+http://hls.123tv.live/ch/KT6gIU56V56Dn1PtLAG3uQ/1608923578/vh1.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png" group-title="Entertainment", Warner TV
 https://we-play.tv/watching/tv/warner-tv
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/true_xzyte.jpg" group-title="Entertainment", X-Zyte HD
