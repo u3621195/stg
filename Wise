@@ -43,8 +43,6 @@ https://www.livedoomovies.com/02_THAIRATH_720p/chunklist.m3u8
 https://www.we-play.tv/watching/tv/workpoint
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-workpoint.png" group-title="Digital TV", Workpoint (Mirror)
 https://www.livedoomovies.com/02_WORKPOINT_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/ae_us.jpg" group-title="Entertainment", A&E USA
-https://ustvgo.tv/ae-networks-live-streaming-free/
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png" group-title="Entertainment", ABC USA
 https://ustvgo.tv/abc-live-streaming-free/
 #EXTINF: -1 tvg-logo="https://www.logolynx.com/images/logolynx/4b/4bf1221df25d72bffba945ec2ac30210.png" group-title="Entertainment", AFV Family
@@ -57,8 +55,6 @@ https://we-play.tv/watching/tv/axn-hd
 https://www.doomovie-hd.com/?r=tv_view&id=35
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bbc_america.jpg" group-title="Entertainment", BBC America USA
 https://ustvgo.tv/bbc-america-live/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bet_us.jpg" group-title="Entertainment", BET USA
-https://ustvgo.tv/bet/
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BLUE-ANT-ENTERTAINMENT-LOGO-BLK_CMYK.jpg" group-title="Entertainment", Blue Ant Entertainment
 https://we-play.tv/watching/tv/blueant-entertainment
 #EXTINF: -1 tvg-logo="https://www.pngitem.com/pimgs/m/597-5974160_blue-ant-extreme-hd-logo-logo-blue-ant.png" group-title="Entertainment", Blue Ant Extreme
@@ -105,8 +101,6 @@ https://ustvgo.tv/syfy-channel-live/
 https://ustvgo.tv/tv-land-live-free/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/usa_network.jpg" group-title="Entertainment", USA Network USA
 https://ustvgo.tv/usa-network-live/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/vh1_us.jpg" group-title="Entertainment", VH1 USA
-https://ustvgo.tv/vh1/
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png" group-title="Entertainment", Warner TV
 https://we-play.tv/watching/tv/warner-tv
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/true_xzyte.jpg" group-title="Entertainment", X-Zyte HD
@@ -149,8 +143,6 @@ https://we-play.tv/watching/tv/hbo-hits
 https://www.doomovie-hd.com/?r=tv_view&id=43
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbosignature.jpg" group-title="Movies", HBO Signature
 https://we-play.tv/watching/tv/hbo-signature
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/showtime.jpg" group-title="Movies", Showtime USA
-https://ustvgo.tv/showtime/
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tfilm.png" group-title="Movies", True Film HD
 https://we-play.tv/watching/tv/true-film-hd
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-thaifilm.png" group-title="Movies", True Thai Film
@@ -171,8 +163,6 @@ https://www.doomovie-hd.com/?r=tv_view&id=30
 https://we-play.tv/watching/tv/golf-channel
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/golf_channel_th.jpg" group-title="Sports", Golf Channel (Mirror)
 https://www.doomovie-hd.com/?r=tv_view&id=27
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/golf_channel_us.jpg" group-title="Sports", Golf Channel USA
-https://ustvgo.tv/golf-channel/
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-liverpool.jpg" group-title="Sports", LFCTV
 https://www.lineballsod.com/doball/live-ch27/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/mlb_network.jpg" group-title="Sports", MLB Network USA
