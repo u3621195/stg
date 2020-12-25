@@ -55,6 +55,8 @@ https://we-play.tv/watching/tv/axn-hd
 https://www.doomovie-hd.com/?r=tv_view&id=35
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bbc_america.jpg" group-title="Entertainment", BBC America USA
 https://ustvgo.tv/bbc-america-live/
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bbc_lifestyle.jpg" group-title="Entertainment", BBC Lifestyle
+https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BLUE-ANT-ENTERTAINMENT-LOGO-BLK_CMYK.jpg" group-title="Entertainment", Blue Ant Entertainment
 https://we-play.tv/watching/tv/blueant-entertainment
 #EXTINF: -1 tvg-logo="https://www.pngitem.com/pimgs/m/597-5974160_blue-ant-extreme-hd-logo-logo-blue-ant.png" group-title="Entertainment", Blue Ant Extreme
