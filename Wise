@@ -136,9 +136,9 @@ https://ustvgo.tv/hallmark-channel-live-streaming-free/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/hbo_family.jpg" group-title="Movies", HBO Family
 https://we-play.tv/watching/tv/hbo-family
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Movies", HBO HD
-https://we-play.tv/watching/tv/hbo-hd
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Movies", HBO HD (Mirror)
 https://www.doomovie-hd.com/?r=tv_view&id=41
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Movies", HBO HD (Mirror)
+https://we-play.tv/watching/tv/hbo-hd
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg" group-title="Movies", HBO Hits
 https://we-play.tv/watching/tv/hbo-hits
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg" group-title="Movies", HBO Hits (Mirror)
