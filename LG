@@ -43,6 +43,8 @@ https://doofootball.livestream-cdn.com/iptv/uk-foodnetwork.stream/chunks.m3u8
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png" group-title="Entertainment", Warner TV
 https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/true_xzyte.jpg" group-title="Entertainment", True X-Zyte
+https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png" group-title="Movies", Fox Action Movies
 https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png" group-title="Movies", Fox Family Movies
