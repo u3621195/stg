@@ -22,11 +22,11 @@ https://www.livedoomovies.com/02_AMARINHD_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-gmmchannel.png" group-title="Digital TV", GMM25
 https://we-play.tv/watching/tv/gmm25
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-nation.png" group-title="Digital TV", Nation TV
-https://www.we-play.tv/watching/tv/nationtv
+https://www.doo2you.com/nation/
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-nation.png" group-title="Digital TV", Nation TV (Mirror)
-https://cdn6.goprimetime.info/feed/chnation/index.m3u8
+https://www.we-play.tv/watching/tv/nationtv
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/3b661110-34b2-11eb-ab87-572b7d84cb76/896044/150893946.png" group-title="Digital TV", New 18
-https://cdn6.goprimetime.info//feed//newtv//index.m3u8
+https://www.doo2you.com/new-tv/
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-gmmone.png" group-title="Digital TV", One31 HD
 https://www.we-play.tv/watching/tv/one-hd
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-gmmone.png" group-title="Digital TV", One31 HD (Mirror)
