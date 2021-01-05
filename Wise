@@ -161,6 +161,8 @@ https://we-play.tv/watching/tv/true-film-hd
 https://we-play.tv/watching/tv/true-thai-film
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/tv_land_us.jpg" group-title="Movies & Series", TV Land USA
 https://ustvgo.tv/tv-land-live-free/
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/universal_channel_uk.jpg" group-title="Movies & Series", Universal Channel UK
+https://freetvdd.com/%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%a2%e0%b8%99%e0%b8%95%e0%b9%8c/universal-channel/
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png" group-title="Movies & Series", Warner TV
 https://we-play.tv/watching/tv/warner-tv
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/true_xzyte.jpg" group-title="Movies & Series", X-Zyte HD
