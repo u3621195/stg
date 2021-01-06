@@ -153,11 +153,11 @@ https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u
 https://ustvgo.tv/mtv/
 #EXTINF: -1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/10/Pop-logo-2014.png" group-title="Movies & Series", POP USA
 https://ustvgo.tv/pop/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_1.jpg" aspect-ratio="1,85:1" group-title="Movies & Series", Sky 1
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_1.jpg" aspect-ratio="4:3" group-title="Movies & Series", Sky 1
 https://freetvdd.com/%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7/sky-1-uk/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_atlantic_hd.jpg" group-title="Movies & Series", Sky Atlantic
 https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/sky-atlantic-uk/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_movies_premiere_hd.jpg" aspect-ratio="1,85:1" group-title="Movies & Series", Sky Movies Premiere
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_movies_premiere_hd.jpg" aspect-ratio="4:3" group-title="Movies & Series", Sky Movies Premiere
 https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/sky-movies-premiere/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/starz.jpg" group-title="Movies & Series", StarZ USA
 https://ustvgo.tv/starz-channel-live/
