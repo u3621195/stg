@@ -271,8 +271,10 @@ https://www.doomovie-hd.com/?r=tv_view&id=24
 https://we-play.tv/watching/tv/true-tennis
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png" group-title="Sports", True Tennis HD (Mirror)
 https://www.doomovie-hd.com/?r=tv_view&id=26
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/world_wrestling_entertainment.jpg" group-title="Sports", WWE Network (Mirror)
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/world_wrestling_entertainment.jpg" group-title="Sports", WWE Network
 https://www.doomovie-hd.com/?r=tv_view&id=230
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/world_wrestling_entertainment.jpg" group-title="Sports", WWE Network (Mirror)
+https://webapp.airy.tv/Featured/810_WWE
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/world_wrestling_entertainment.jpg" group-title="Sports", WWE Network USA
 https://ustvgo.tv/wwe-network/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_us.jpg" group-title="Documentary", Animal Planet
