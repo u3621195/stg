@@ -83,6 +83,8 @@ https://freetvdd.com/%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%94%e0%b8%b4%e0%b
 https://ustvgo.tv/cbs-live-streaming-free/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cinemax_my.jpg" group-title="Entertainment", Cinemax
 https://we-play.tv/watching/tv/cinemax
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cinemax_my.jpg" group-title="Entertainment", Cinemax
+http://dootvthai-hd.com/cmd/hbo/hbohd/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cinemax_my.jpg" group-title="Entertainment", Cinemax USA
 https://ustvgo.tv/cinemax/
 #EXTINF: -1 tvg-logo="https://variety.com/wp-content/uploads/2018/03/cmt-logo.jpg" group-title="Entertainment", CMT USA
@@ -135,6 +137,8 @@ https://ustvgo.tv/hallmark-movies-mysteries-live-streaming-free/
 https://www.doomovie-hd.com/?r=tv_view&id=41
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Entertainment", HBO HD (Mirror)
 https://we-play.tv/watching/tv/hbo-hd
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Entertainment", HBO HD (Mirror)
+https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg" group-title="Entertainment", HBO Hits
 https://we-play.tv/watching/tv/hbo-hits
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg" group-title="Entertainment", HBO Hits (Mirror)
