@@ -35,6 +35,8 @@ https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bbc_lifestyle.jpg" group-title="Movies & Series", BBC Lifestyle
 https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cinemax_my.jpg" group-title="Movies & Series", Cinemax
+http://dootvthai-hd.com/cmd/hbo/hbohd/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/fashion_tv.jpg" group-title="Movies & Series", Fashion TV HD
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/fashion_tv.jpg" group-title="Movies & Series", Fashion TV Midnight FHD
@@ -52,7 +54,7 @@ https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Movies & Series", HBO HD
 https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Movies & Series", HBO HD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+http://dootvthai-hd.com/cmd/hbo/hbohd/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg" group-title="Movies & Series", HBO Hits
 https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/hbo_family.jpg" group-title="Movies & Series", HBO Family
