@@ -43,115 +43,121 @@ https://www.livedoomovies.com/02_THAIRATH_720p/chunklist.m3u8
 https://www.we-play.tv/watching/tv/workpoint
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-workpoint.png" group-title="Digital TV", Workpoint (Mirror)
 https://www.livedoomovies.com/02_WORKPOINT_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/and-flix-hd.jpg" group-title="Movies & Series", &FlixHd
+#EXTINF: -1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/and-flix-hd.jpg" group-title="Entertainment", &FlixHd
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/channel4_seven_uk.jpg" group-title="Movies & Series", 4Seven
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/channel4_seven_uk.jpg" group-title="Entertainment", 4Seven
 https://freetvdd.com/%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%94%e0%b8%b4%e0%b8%88%e0%b8%b4%e0%b8%95%e0%b8%ad%e0%b8%a5/4-seven-uk/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/channel5_usa.jpg" group-title="Movies & Series", 5 USA
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/channel5_usa.jpg" group-title="Entertainment", 5 USA
 https://freetvdd.com/%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%94%e0%b8%b4%e0%b8%88%e0%b8%b4%e0%b8%95%e0%b8%ad%e0%b8%a5/5-usa-uk/
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png" group-title="Movies & Series", ABC USA
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png" group-title="Entertainment", ABC USA
 https://ustvgo.tv/abc-live-streaming-free/
-#EXTINF: -1 tvg-logo="https://www.logolynx.com/images/logolynx/4b/4bf1221df25d72bffba945ec2ac30210.png" group-title="Movies & Series", AFV Family
+#EXTINF: -1 tvg-logo="https://www.logolynx.com/images/logolynx/4b/4bf1221df25d72bffba945ec2ac30210.png" group-title="Entertainment", AFV Family
 http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://web-cdn.blivenyc.com/generic/c90.1280x768.jpg" group-title="Movies & Series", American Kennel Club
+#EXTINF: -1 tvg-logo="https://web-cdn.blivenyc.com/generic/c90.1280x768.jpg" group-title="Entertainment", American Kennel Club
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/axn.jpg" group-title="Movies & Series", AXN HD
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/axn.jpg" group-title="Entertainment", AXN HD
 https://we-play.tv/watching/tv/axn-hd
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/axn.jpg" group-title="Movies & Series", AXN HD (Mirror)
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/axn.jpg" group-title="Entertainment", AXN HD (Mirror)
 https://www.doomovie-hd.com/?r=tv_view&id=35
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/axn.jpg" group-title="Movies & Series", AXN HD (Mirror)
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/axn.jpg" group-title="Entertainment", AXN HD (Mirror)
 https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bbc_america.jpg" group-title="Movies & Series", BBC America USA
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bbc_america.jpg" group-title="Entertainment", BBC America USA
 https://ustvgo.tv/bbc-america-live/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bbc_lifestyle.jpg" group-title="Movies & Series", BBC Lifestyle
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bbc_lifestyle.jpg" group-title="Entertainment", BBC Lifestyle
 https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BLUE-ANT-ENTERTAINMENT-LOGO-BLK_CMYK.jpg" group-title="Movies & Series", Blue Ant Entertainment
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BLUE-ANT-ENTERTAINMENT-LOGO-BLK_CMYK.jpg" group-title="Entertainment", Blue Ant Entertainment
 https://we-play.tv/watching/tv/blueant-entertainment
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BLUE-ANT-ENTERTAINMENT-LOGO-BLK_CMYK.jpg" group-title="Movies & Series", Blue Ant Entertainment (Mirror)
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BLUE-ANT-ENTERTAINMENT-LOGO-BLK_CMYK.jpg" group-title="Entertainment", Blue Ant Entertainment (Mirror)
 https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/rtl-cbs-th/
-#EXTINF: -1 tvg-logo="https://www.pngitem.com/pimgs/m/597-5974160_blue-ant-extreme-hd-logo-logo-blue-ant.png" group-title="Movies & Series", Blue Ant Extreme
+#EXTINF: -1 tvg-logo="https://www.pngitem.com/pimgs/m/597-5974160_blue-ant-extreme-hd-logo-logo-blue-ant.png" group-title="Entertainment", Blue Ant Extreme
 https://we-play.tv/watching/tv/blueant-extreme
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bravo_us.jpg" group-title="Movies & Series", Bravo USA
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bravo_us.jpg" group-title="Entertainment", Bravo USA
 https://ustvgo.tv/bravo-channel-live-free/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cbs_action_uk.jpg" group-title="Movies & Series", CBS Action
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cbs_action_uk.jpg" group-title="Entertainment", CBS Action
 https://freetvdd.com/%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%a2%e0%b8%99%e0%b8%95%e0%b9%8c/cbs-action/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cbs_drama_uk.jpg" group-title="Movies & Series", CBS Drama
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cbs_drama_uk.jpg" group-title="Entertainment", CBS Drama
 https://freetvdd.com/%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%a2%e0%b8%99%e0%b8%95%e0%b9%8c/cbs-drama/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cbs_reality_uk.jpg" group-title="Movies & Series", CBS Reality
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cbs_reality_uk.jpg" group-title="Entertainment", CBS Reality
 https://freetvdd.com/%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%94%e0%b8%b4%e0%b8%88%e0%b8%b4%e0%b8%95%e0%b8%ad%e0%b8%a5/cbs-reality/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cbs_hd.jpg" group-title="Movies & Series", CBS USA
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cbs_hd.jpg" group-title="Entertainment", CBS USA
 https://ustvgo.tv/cbs-live-streaming-free/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cinemax_my.jpg" group-title="Movies & Series", Cinemax
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cinemax_my.jpg" group-title="Entertainment", Cinemax
 https://we-play.tv/watching/tv/cinemax
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cinemax_my.jpg" group-title="Movies & Series", Cinemax USA
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cinemax_my.jpg" group-title="Entertainment", Cinemax USA
 https://ustvgo.tv/cinemax/
-#EXTINF: -1 tvg-logo="https://variety.com/wp-content/uploads/2018/03/cmt-logo.jpg" group-title="Movies & Series", CMT USA
+#EXTINF: -1 tvg-logo="https://variety.com/wp-content/uploads/2018/03/cmt-logo.jpg" group-title="Entertainment", CMT USA
 https://ustvgo.tv/cmt/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/comedy_central_asia.jpg" group-title="Movies & Series", Comedy Central USA
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/comedy_central_uk.jpg" group-title="Entertainment", Comedy Central UK
+http://wagnet.club:7000/billy/billy/17
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/comedy_central_asia.jpg" group-title="Entertainment", Comedy Central USA
 https://ustvgo.tv/comedy-central-live-free/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/e_asia_pacific.jpg" group-title="Movies & Series", E! USA
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/e_asia_pacific.jpg" group-title="Entertainment", E! USA
 https://ustvgo.tv/eonline/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/fashion_tv.jpg" group-title="Movies & Series", Fashion TV HD
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/fashion_tv.jpg" group-title="Entertainment", Fashion TV HD
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/fashion_tv.jpg" group-title="Movies & Series", Fashion TV Midnight FHD
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/fashion_tv.jpg" group-title="Entertainment", Fashion TV Midnight FHD
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png" group-title="Movies & Series", Fox Action Movies
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png" group-title="Entertainment", Fox Action Movies
 https://we-play.tv/watching/tv/fox-action-movies
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png" group-title="Movies & Series", Fox Action Movies (Mirror)
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png" group-title="Entertainment", Fox Action Movies (Mirror)
 https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png" group-title="Movies & Series", Fox Action Movies (Mirror)
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png" group-title="Entertainment", Fox Action Movies (Mirror)
 https://we-play.tv/watching/tv/fox-action-movies
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png" group-title="Movies & Series", Fox Family Movies
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png" group-title="Entertainment", Fox Family Movies
 https://we-play.tv/watching/tv/fox-family-movies
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png" group-title="Movies & Series", Fox Family Movies (Mirror)
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png" group-title="Entertainment", Fox Family Movies (Mirror)
 https://www.doomovie-hd.com/?r=tv_view&id=126
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/02_FOX_Life_HD_720p.png" group-title="Movies & Series", Fox Life
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/02_FOX_Life_HD_720p.png" group-title="Entertainment", Fox Life
 https://we-play.tv/watching/tv/fox-life
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="Movies & Series", Fox Movies Premium
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="Entertainment", Fox Movies Premium
 https://we-play.tv/watching/tv/fox-movies-soundtrack
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="Movies & Series", Fox Movies Premium (Mirror)
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="Entertainment", Fox Movies Premium (Mirror)
 https://www.doomovie-hd.com/?r=tv_view&id=38
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="Movies & Series", Fox Movies Premium (Mirror)
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="Entertainment", Fox Movies Premium (Mirror)
 https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/fox-movies-premium-th/
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png" group-title="Movies & Series", Fox Thai
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png" group-title="Entertainment", Fox Thai
 https://we-play.tv/watching/tv/fox-thai
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png" group-title="Movies & Series", Fox Thai (Mirror)
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png" group-title="Entertainment", Fox Thai (Mirror)
 https://www.doomovie-hd.com/?r=tv_view&id=123
-#EXTINF: -1 tvg-logo="https://www.pngitem.com/pimgs/m/289-2894686_transparent-freeform-logo-png-freeform-channel-logo-png.png" group-title="Movies & Series", Freeform USA
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/fox_uk_hd.jpg" group-title="Entertainment", Fox UK
+http://wagnet.club:7000/billy/billy/22
+#EXTINF: -1 tvg-logo="https://www.pngitem.com/pimgs/m/289-2894686_transparent-freeform-logo-png-freeform-channel-logo-png.png" group-title="Entertainment", Freeform USA
 https://ustvgo.tv/freeform-channel-live-free/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/fx_us.jpg" group-title="Movies & Series", FX USA
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/fx_us.jpg" group-title="Entertainment", FX USA
 https://ustvgo.tv/fx-channel-live/
-#EXTINF: -1 tvg-logo="https://www.nicepng.com/png/detail/965-9651409_fx-movies-logo-fx-movies-logo-png.png" group-title="Movies & Series", FXM USA
+#EXTINF: -1 tvg-logo="https://www.nicepng.com/png/detail/965-9651409_fx-movies-logo-fx-movies-logo-png.png" group-title="Entertainment", FXM USA
 https://ustvgo.tv/fxm/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/fxx_us.jpg" group-title="Movies & Series", FXX USA
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/fxx_us.jpg" group-title="Entertainment", FXX USA
 https://ustvgo.tv/fxx/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/game_show_network.jpg" group-title="Movies & Series", Game Show Network USA
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/game_show_network.jpg" group-title="Entertainment", Game Show Network USA
 https://ustvgo.tv/gsn/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/hallmark_channel_us.jpg" group-title="Movies & Series", Hallmark USA
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/hallmark_channel_us.jpg" group-title="Entertainment", Hallmark USA
 https://ustvgo.tv/hallmark-channel-live-streaming-free/
-#EXTINF: -1 tvg-logo="https://www.clipartkey.com/mpngs/m/64-649596_picture-hallmark-movies-and-mysteries-channel-logo.png" group-title="Movies & Series", Hallmark Movies and Mysteries USA
+#EXTINF: -1 tvg-logo="https://www.clipartkey.com/mpngs/m/64-649596_picture-hallmark-movies-and-mysteries-channel-logo.png" group-title="Entertainment", Hallmark Movies and Mysteries USA
 https://ustvgo.tv/hallmark-movies-mysteries-live-streaming-free/
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Movies & Series", HBO HD
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Entertainment", HBO HD
 https://www.doomovie-hd.com/?r=tv_view&id=41
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Movies & Series", HBO HD (Mirror)
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Entertainment", HBO HD (Mirror)
 https://we-play.tv/watching/tv/hbo-hd
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg" group-title="Movies & Series", HBO Hits
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg" group-title="Entertainment", HBO Hits
 https://we-play.tv/watching/tv/hbo-hits
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg" group-title="Movies & Series", HBO Hits (Mirror)
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg" group-title="Entertainment", HBO Hits (Mirror)
 https://www.doomovie-hd.com/?r=tv_view&id=43
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/hbo_family.jpg" group-title="Movies & Series", HBO Family
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/hbo_family.jpg" group-title="Entertainment", HBO Family
 https://we-play.tv/watching/tv/hbo-family
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbosignature.jpg" group-title="Movies & Series", HBO Signature
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbosignature.jpg" group-title="Entertainment", HBO Signature
 https://we-play.tv/watching/tv/hbo-signature
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/lifetime_usa.jpg" group-title="Movies & Series", Lifetime USA
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/lifetime_usa.jpg" group-title="Entertainment", Lifetime USA
 https://ustvgo.tv/lifetime-channel-live/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/lifetime_movie_network.jpg" group-title="Movies & Series", Lifetime Movies USA
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/lifetime_movie_network.jpg" group-title="Entertainment", Lifetime Movies USA
 https://ustvgo.tv/lifetime-movies/
-#EXTINF: -1 tvg-logo="https://www.giniko.com/logos/190x110/991.jpg" group-title="Movies & Series", Models Inc.
+#EXTINF: -1 tvg-logo="https://www.giniko.com/logos/190x110/991.jpg" group-title="Entertainment", Models Inc.
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/mtv.jpg" group-title="Movies & Series", MTV USA
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/mtv_uk.jpg" group-title="Entertainment", MTV UK
+http://wagnet.club:7000/billy/billy/24
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/mtv.jpg" group-title="Entertainment", MTV USA
 https://ustvgo.tv/mtv/
-#EXTINF: -1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/10/Pop-logo-2014.png" group-title="Movies & Series", POP USA
+#EXTINF: -1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/10/Pop-logo-2014.png" group-title="Entertainment", POP USA
 https://ustvgo.tv/pop/
 #EXTINF: -1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/SKY-CINEMA-ACTION-June-2020.png", group-title="Entertainment", Sky Cinema Action
 http://wagnet.club:7000/billy/billy/77
@@ -173,27 +179,27 @@ http://wagnet.club:7000/billy/billy/72
 http://wagnet.club:7000/billy/billy/79
 #EXTINF: -1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/SKY-CINEMA-THRILLER-June-2020.png", group-title="Entertainment", Sky Cinema Thriller
 http://wagnet.club:7000/billy/billy/80
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_1.jpg" group-title="Movies & Series", Sky 1
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_1.jpg" group-title="Entertainment", Sky 1
 https://freetvdd.com/%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7/sky-1-uk/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_atlantic_hd.jpg" group-title="Movies & Series", Sky Atlantic
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_atlantic_hd.jpg" group-title="Entertainment", Sky Atlantic
 https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/sky-atlantic-uk/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_movies_premiere_hd.jpg" group-title="Movies & Series", Sky Movies Premiere
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_movies_premiere_hd.jpg" group-title="Entertainment", Sky Movies Premiere
 https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/sky-movies-premiere/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/starz.jpg" group-title="Movies & Series", StarZ USA
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/starz.jpg" group-title="Entertainment", StarZ USA
 https://ustvgo.tv/starz-channel-live/
-#EXTINF: -1 tvg-logo="https://www.logo-designer.co/wp-content/uploads/2017/05/2017-syfy-new-logo-design.png" group-title="Movies & Series", Syfy USA
+#EXTINF: -1 tvg-logo="https://www.logo-designer.co/wp-content/uploads/2017/05/2017-syfy-new-logo-design.png" group-title="Entertainment", Syfy USA
 https://ustvgo.tv/syfy-channel-live/
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tfilm.png" group-title="Movies & Series", True Film HD
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tfilm.png" group-title="Entertainment", True Film HD
 https://we-play.tv/watching/tv/true-film-hd
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-thaifilm.png" group-title="Movies & Series", True Thai Film
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-thaifilm.png" group-title="Entertainment", True Thai Film
 https://we-play.tv/watching/tv/true-thai-film
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/tv_land_us.jpg" group-title="Movies & Series", TV Land USA
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/tv_land_us.jpg" group-title="Entertainment", TV Land USA
 https://ustvgo.tv/tv-land-live-free/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/universal_channel_uk.jpg" group-title="Movies & Series", Universal Channel UK
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/universal_channel_uk.jpg" group-title="Entertainment", Universal Channel UK
 https://freetvdd.com/%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%a2%e0%b8%99%e0%b8%95%e0%b9%8c/universal-channel/
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png" group-title="Movies & Series", Warner TV
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png" group-title="Entertainment", Warner TV
 https://we-play.tv/watching/tv/warner-tv
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/true_xzyte.jpg" group-title="Movies & Series", X-Zyte HD
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/true_xzyte.jpg" group-title="Entertainment", X-Zyte HD
 https://we-play.tv/watching/tv/true-xzyte
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_1_hd.jpg" group-title="Sports", BT Sport HD 1
 https://www.doomovie-hd.com/?r=tv_view&id=156
