@@ -153,6 +153,26 @@ https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u
 https://ustvgo.tv/mtv/
 #EXTINF: -1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/10/Pop-logo-2014.png" group-title="Movies & Series", POP USA
 https://ustvgo.tv/pop/
+#EXTINF: -1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/SKY-CINEMA-ACTION-June-2020.png", group-title="Entertainment", Sky Cinema Action
+http://wagnet.club:7000/billy/billy/77
+#EXTINF: -1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/SKY-CINEMA-COMEDY-June-2020.png", group-title="Entertainment", Sky Cinema Comedy
+http://wagnet.club:7000/billy/billy/75
+#EXTINF: -1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/SKY-CINEMA-DRAMA-June-2020.png", group-title="Entertainment", Sky Cinema Drama
+http://wagnet.club:7000/billy/billy/78
+#EXTINF: -1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/SKY-CINEMA-FAMILY-June-2020.png", group-title="Entertainment", Sky Cinema Family
+http://wagnet.club:7000/billy/billy/74
+#EXTINF: -1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1811.png", group-title="Entertainment", Sky Cinema Feel Good
+http://wagnet.club:7000/billy/billy/646402
+#EXTINF: -1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/SKY-CINEMA-GREATS-June-2020.png", group-title="Entertainment", Sky Cinema Greats
+http://wagnet.club:7000/billy/billy/81
+#EXTINF: -1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/SKY-CINEMA-HITS-June-2020.png", group-title="Entertainment", Sky Cinema Hits
+http://wagnet.club:7000/billy/billy/73
+#EXTINF: -1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/SKY-CINEMA-PREMIERE-June-2020.png", group-title="Entertainment", Sky Cinema Premier
+http://wagnet.club:7000/billy/billy/72
+#EXTINF: -1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/SKY-CINEMA-SCIFI-HORROR-June-2020.png", group-title="Entertainment", Sky Cinema Sci-Fi Horror
+http://wagnet.club:7000/billy/billy/79
+#EXTINF: -1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/SKY-CINEMA-THRILLER-June-2020.png", group-title="Entertainment", Sky Cinema Thriller
+http://wagnet.club:7000/billy/billy/80
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_1.jpg" group-title="Movies & Series", Sky 1
 https://freetvdd.com/%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7/sky-1-uk/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_atlantic_hd.jpg" group-title="Movies & Series", Sky Atlantic
