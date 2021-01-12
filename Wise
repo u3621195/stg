@@ -153,8 +153,6 @@ https://ustvgo.tv/lifetime-channel-live/
 https://ustvgo.tv/lifetime-movies/
 #EXTINF: -1 tvg-logo="https://www.giniko.com/logos/190x110/991.jpg" group-title="Entertainment", Models Inc.
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/mtv_uk.jpg" group-title="Entertainment", MTV UK
-http://wagnet.club:7000/billy/billy/24
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/mtv.jpg" group-title="Entertainment", MTV USA
 https://ustvgo.tv/mtv/
 #EXTINF: -1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/10/Pop-logo-2014.png" group-title="Entertainment", POP USA
