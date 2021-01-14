@@ -53,10 +53,14 @@ https://freetvdd.com/%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%94%e0%b8%b4%e0%b
 https://ustvgo.tv/abc-live-streaming-free/
 #EXTINF: -1 tvg-logo="https://www.logolynx.com/images/logolynx/4b/4bf1221df25d72bffba945ec2ac30210.png" group-title="Entertainment", AFV Family
 http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/alibi_uktv.jpg" group-title="Entertainment", Alibi
+https://freetvdd.com/%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7/alibi-uk/
 #EXTINF: -1 tvg-logo="https://web-cdn.blivenyc.com/generic/c90.1280x768.jpg" group-title="Entertainment", American Kennel Club
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/axn.jpg" group-title="Entertainment", AXN HD
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/axn.jpg" group-title="Entertainment", AXN HD 
 https://we-play.tv/watching/tv/axn-hd
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/axn.jpg" group-title="Entertainment", AXN HD (Mirror)
+https://freetvdd.com/%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%94%e0%b8%b4%e0%b8%88%e0%b8%b4%e0%b8%95%e0%b8%ad%e0%b8%a5/axn/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/axn.jpg" group-title="Entertainment", AXN HD (Mirror)
 https://www.doomovie-hd.com/?r=tv_view&id=35
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/axn.jpg" group-title="Entertainment", AXN HD (Mirror)
@@ -64,6 +68,8 @@ https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bbc_america.jpg" group-title="Entertainment", BBC America USA
 https://ustvgo.tv/bbc-america-live/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bbc_lifestyle.jpg" group-title="Entertainment", BBC Lifestyle
+https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/bbc-lifestyle/
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bbc_lifestyle.jpg" group-title="Entertainment", BBC Lifestyle (Mirror)
 https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BLUE-ANT-ENTERTAINMENT-LOGO-BLK_CMYK.jpg" group-title="Entertainment", Blue Ant Entertainment
 https://we-play.tv/watching/tv/blueant-entertainment
@@ -89,8 +95,12 @@ http://dootvthai-hd.com/cmd/hbo/hbohd/playlist.m3u8
 https://ustvgo.tv/cinemax/
 #EXTINF: -1 tvg-logo="https://variety.com/wp-content/uploads/2018/03/cmt-logo.jpg" group-title="Entertainment", CMT USA
 https://ustvgo.tv/cmt/
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/comedy_central_asia.jpg" group-title="Entertainment", Comedy Central UK
+https://freetvdd.com/%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%94%e0%b8%b4%e0%b8%88%e0%b8%b4%e0%b8%95%e0%b8%ad%e0%b8%a5/comedy-central/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/comedy_central_asia.jpg" group-title="Entertainment", Comedy Central USA
 https://ustvgo.tv/comedy-central-live-free/
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/crime_investigation_network_uk.jpg" group-title="Entertainment", Crime & Investigation UK
+https://freetvdd.com/uncategorized/inside-crime-investigation/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/e_asia_pacific.jpg" group-title="Entertainment", E! USA
 https://ustvgo.tv/eonline/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/fashion_tv.jpg" group-title="Entertainment", Fashion TV HD
@@ -177,14 +187,24 @@ https://ustvgo.tv/tv-land-live-free/
 https://freetvdd.com/%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%a2%e0%b8%99%e0%b8%95%e0%b9%8c/universal-channel/
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png" group-title="Entertainment", Warner TV
 https://we-play.tv/watching/tv/warner-tv
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png" group-title="Entertainment", Warner TV (Mirror)
+https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/warner-tv/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/true_xzyte.jpg" group-title="Entertainment", X-Zyte HD
 https://we-play.tv/watching/tv/true-xzyte
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_1_hd.jpg" group-title="Sports", BT Sport HD 1
+https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/bt-sports/
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_1_hd.jpg" group-title="Sports", BT Sport HD 1 (Mirror)
 https://www.doomovie-hd.com/?r=tv_view&id=156
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_2_hd.jpg" group-title="Sports", BT Sport HD 2
+https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/bt-sports-2-hd-uk/
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_2_hd.jpg" group-title="Sports", BT Sport HD 2 (Mirror)
 https://www.doomovie-hd.com/?r=tv_view&id=157
 #EXTINF: -1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/9365/333275-256197/a4df4ef049b119253c9833bea8ed6515.jpg" group-title="Sports", CBS Sports Network USA
 https://ustvgo.tv/cbs-sports-network/
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/espn_uk.jpg" group-title="Sports", ESPN UK
+https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/espn/
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="Sports", Eurosport
+https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/euro-sport/
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7fbcfe10-347a-11eb-affa-598b7b3bcc90/895058/150303947.png" group-title="Sports", Fox Sports 1
 https://www.doomovie-hd.com/?r=tv_view&id=28
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7fbcfe10-347a-11eb-affa-598b7b3bcc90/895058/150303948.png" group-title="Sports", Fox Sports 2
@@ -192,6 +212,8 @@ https://www.doomovie-hd.com/?r=tv_view&id=29
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7fbcfe10-347a-11eb-affa-598b7b3bcc90/895058/150303949.png" group-title="Sports", Fox Sports 3
 https://www.doomovie-hd.com/?r=tv_view&id=30
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/golf_channel_th.jpg" group-title="Sports", Golf Channel
+https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/golf-channel/
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/golf_channel_th.jpg" group-title="Sports", Golf Channel (Mirror)
 https://we-play.tv/watching/tv/golf-channel
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/golf_channel_th.jpg" group-title="Sports", Golf Channel (Mirror)
 https://www.doomovie-hd.com/?r=tv_view&id=27
@@ -241,14 +263,22 @@ https://www.doomovie-hd.com/?r=tv_view&id=154
 https://we-play.tv/watching/tv/true-premier-football-hd-5
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png" group-title="Sports", Premiere Football HD 5 (Mirror)
 https://www.doomovie-hd.com/?r=tv_view&id=155
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_sports.jpg" group-title="Sports", Sky Sports
+https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/sky-sports-arena-uk/
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-71TeuFS8dxA/XrqC93OxyFI/AAAAAAAAC2A/Q96whsjHhGc4axIxiEuc5D9ckqQtjuk_QCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BFootball.jpg" group-title="Sports", Sky Sports Football HD
 https://doofootball.livestream-cdn.com/iptv/uk-skysports-football.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-71TeuFS8dxA/XrqC93OxyFI/AAAAAAAAC2A/Q96whsjHhGc4axIxiEuc5D9ckqQtjuk_QCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BFootball.jpg" group-title="Sports", Sky Sports Football HD (Mirror)
+https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/sky-sports-football-uk/
 #EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-J0Pyy7gBqro/W7ZpdkCICOI/AAAAAAAAIxw/-On8N-Jw5m0efbXnCc-EVlnp9z7es9guwCLcBGAs/s1600/sky-golf.png" group-title="Sports", Sky Sports Golf HD
 https://doofootball.livestream-cdn.com/iptv/uk-skysports-golf.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-J0Pyy7gBqro/W7ZpdkCICOI/AAAAAAAAIxw/-On8N-Jw5m0efbXnCc-EVlnp9z7es9guwCLcBGAs/s1600/sky-golf.png" group-title="Sports", Sky Sports Golf HD (Mirror)
+https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/sky-sports-golf-uk/
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-vL5fvnCJdDA/XrqC_CutwcI/AAAAAAAAC2E/aLM5ZItkeA0CD5NyIVPb5QA7_OIKsjR4gCLcBGAsYHQ/s640/Sky%2BSports%2BMain%2BEvents.jpg" group-title="Sports", Sky Sports Main Event HD
 https://doofootball.livestream-cdn.com/iptv/uk-skysports-mainevent.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-eV0eGvfz9RY/XrqC_VebwfI/AAAAAAAAC2I/JhiVZpJqqOQXRYRX2qdF13iqwYxWNxcDwCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BPremier%2BLeague.jpg" group-title="Sports", Sky Sports Premier League HD
 https://doofootball.livestream-cdn.com/iptv/uk-skysports-epl.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-eV0eGvfz9RY/XrqC_VebwfI/AAAAAAAAC2I/JhiVZpJqqOQXRYRX2qdF13iqwYxWNxcDwCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BPremier%2BLeague.jpg" group-title="Sports", Sky Sports Premier League HD (Mirror)
+https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/sky-sports-premier-league-uk/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv1_pt.jpg" group-title="Sports", Sport TV 1
 https://www.doomovie-hd.com/?r=tv_view&id=139
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv2_pt.jpg" group-title="Sports", Sport TV 2
@@ -291,6 +321,10 @@ https://www.doomovie-hd.com/?r=tv_view&id=52
 https://we-play.tv/watching/tv/discovery-asia
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-discovery.png" group-title="Documentary", Discovery Asia (Mirror)
 https://www.doomovie-hd.com/?r=tv_view&id=57
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/food_network_asia.jpg" group-title="Documentary", Asian Food Network
+https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/afc-asian-food-channel/
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/food_network_asia.jpg" group-title="Documentary", Asian Food Network (Mirror)
+https://we-play.tv/watching/tv/asian-food-channel
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/discovery_se_asia.jpg" group-title="Documentary", Discovery Channel
 https://we-play.tv/watching/tv/discovery-channel
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/discovery_se_asia.jpg" group-title="Documentary", Discovery Channel (Mirror)
@@ -299,8 +333,6 @@ https://www.doomovie-hd.com/?r=tv_view&id=56
 https://ustvgo.tv/discovery-channel-live/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/food_network_ca_hd.jpg" group-title="Documentary", Food Network
 https://we-play.tv/watching/tv/food-network
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/food_network_asia.jpg" group-title="Documentary", Food Network Asia
-https://we-play.tv/watching/tv/asian-food-channel
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/food_network_ca_hd.jpg" group-title="Documentary", Food Network USA
 https://ustvgo.tv/food-network-live-free/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/history_2_us.jpg" group-title="Documentary", H2
@@ -353,6 +385,8 @@ https://ustvgo.tv/disneyjr/
 http://myustv.com/watch/disney-junior/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/disney_xd_uk.jpg" group-title="Kids", Disney XD USA
 https://ustvgo.tv/disneyxd/
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nick_jr_uk.jpg" group-title="Kids", Nick Jr.
+https://freetvdd.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%95%e0%b8%b9%e0%b8%99/nick-jr/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nickelodeon_us.jpg" group-title="Kids", Nickelodeon
 https://www.we-play.tv/watching/tv/nickelodeon
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nickelodeon_us.jpg" group-title="Kids", Nickelodeon USA
@@ -377,6 +411,8 @@ https://ustvgo.tv/msnbc/
 https://ustvgo.tv/nbc/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nhk_world_radio.jpg" group-title="News", NHK World
 https://www.doomovie-hd.com/?r=tv_view&id=206
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_news.jpg" group-title="News", Sky News
+https://freetvdd.com/%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7/sky-news-uk/
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/BBC_One_%282002%29.svg/220px-BBC_One_%282002%29.svg.png" group-title="UK TV", BBC 1 UK
 https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/bbc-one-uk/
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/BBC_One_%282002%29.svg/220px-BBC_One_%282002%29.svg.png" group-title="UK TV", BBC 1 UK (Mirror)
