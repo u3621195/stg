@@ -28,8 +28,6 @@ https://www.we-play.tv/watching/tv/nationtv
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/3b661110-34b2-11eb-ab87-572b7d84cb76/896044/150893946.png" group-title="Digital TV", New 18
 https://stream-05.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54-LYXF8xAYdS26RHhiURIKg)/dm/3/x7kx5i7/s/live-3.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-gmmone.png" group-title="Digital TV", One31 HD
-https://www.we-play.tv/watching/tv/one-hd
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-gmmone.png" group-title="Digital TV", One31 HD (Mirror)
 https://www.livedoomovies.com/02_GMMONE_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-pptv.png" group-title="Digital TV", PPTV HD
 https://www.we-play.tv/watching/tv/pptv-hd
