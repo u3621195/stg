@@ -142,10 +142,12 @@ https://ustvgo.tv/hallmark-channel-live-streaming-free/
 #EXTINF: -1 tvg-logo="https://www.clipartkey.com/mpngs/m/64-649596_picture-hallmark-movies-and-mysteries-channel-logo.png" group-title="Entertainment", Hallmark Movies and Mysteries USA
 https://ustvgo.tv/hallmark-movies-mysteries-live-streaming-free/
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Entertainment", HBO HD
+http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Entertainment", HBO Asia HD
 https://www.doomovie-hd.com/?r=tv_view&id=41
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Entertainment", HBO HD (Mirror)
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Entertainment", HBO Asia HD (Mirror)
 https://we-play.tv/watching/tv/hbo-hd
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Entertainment", HBO HD (Mirror)
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Entertainment", HBO Asia HD (Mirror)
 https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg" group-title="Entertainment", HBO Hits
 https://we-play.tv/watching/tv/hbo-hits
@@ -393,6 +395,8 @@ https://ustvgo.tv/nickelodeon-live-streaming-free/
 https://ustvgo.tv/nicktoons/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cnbc_uk.jpg" group-title="News", CNBC USA
 https://ustvgo.tv/cnbc/
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cnn_international_asia_pacific.jpg" group-title="News", CNN
+http://36.37.252.114:888/Apple/OneTV-100/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cnn_international_asia_pacific.jpg" group-title="News", CNN USA
 https://ustvgo.tv/cnn-live-streaming-free/
 #EXTINF: -1 tvg-logo="https://static-media.fox.com/foxnow/web/v3-2/img/fox_logo.jpg" group-title="News", Fox USA
