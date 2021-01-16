@@ -63,9 +63,9 @@ https://www.livedoomovies.com/02_WORKPOINT_720p/chunklist.m3u8
 https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-workpoint.png" group-title="Digital TV", Workpoint
 http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
-#EXTINF: -1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/and-flix-hd.jpg" group-title="Entertainment", &FlixHd
+#EXTINF: -1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/and-flix-hd.jpg" group-title="Entertainment", &Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF: -1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/and-prive-hd.jpg" group-title="Entertainment", &FlixHd
+#EXTINF: -1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/and-prive-hd.jpg" group-title="Entertainment", &Privé HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.logolynx.com/images/logolynx/4b/4bf1221df25d72bffba945ec2ac30210.png" group-title="Entertainment", AFV Family
 http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
