@@ -41,8 +41,10 @@ https://www.livedoomovies.com/02_THAIRATH_720p/chunklist.m3u8
 https://www.we-play.tv/watching/tv/workpoint
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-workpoint.png" group-title="Digital TV", Workpoint (Mirror)
 https://www.livedoomovies.com/02_WORKPOINT_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/and-flix-hd.jpg" group-title="Entertainment", &FlixHd
+#EXTINF: -1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/and-flix-hd.jpg" group-title="Entertainment", &Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF: -1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/and-prive-hd.jpg" group-title="Entertainment", &Privé HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/channel4_seven_uk.jpg" group-title="Entertainment", 4Seven
 https://freetvdd.com/%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%94%e0%b8%b4%e0%b8%88%e0%b8%b4%e0%b8%95%e0%b8%ad%e0%b8%a5/4-seven-uk/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/channel5_usa.jpg" group-title="Entertainment", 5 USA
@@ -191,6 +193,18 @@ https://we-play.tv/watching/tv/warner-tv
 https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/warner-tv/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/true_xzyte.jpg" group-title="Entertainment", X-Zyte HD
 https://we-play.tv/watching/tv/true-xzyte
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/astro_supersport1.jpg" group-title="Sports", Astro Supersport 1
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/astro_supersport2.jpg" group-title="Sports", Astro Supersport 2
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/astro_supersport3.jpg" group-title="Sports", Astro Supersport 3
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/astro_supersport4.jpg" group-title="Sports", Astro Supersport 4
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport1.jpg" group-title="Sports", Bein 1
+http://160.119.77.116:8081/iptv/epl-bein1.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport2.jpg" group-title="Sports", Bein 2
+http://160.119.77.116:8081/iptv/epl-bein2.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_1_hd.jpg" group-title="Sports", BT Sport HD 1
 https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/bt-sports/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_1_hd.jpg" group-title="Sports", BT Sport HD 1 (Mirror)
@@ -205,6 +219,10 @@ https://ustvgo.tv/cbs-sports-network/
 https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/espn/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="Sports", Eurosport
 https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/euro-sport/
+#EXTINF: -1 tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg" group-title="Sports", Eurosport 1
+https://doofootball.livestream-cdn.com/iptv/uk-eurosport.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.stream2watch.is/images/streams/125071/600x400/15995812859008.png" group-title="Sports", Eurosport 2
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7fbcfe10-347a-11eb-affa-598b7b3bcc90/895058/150303947.png" group-title="Sports", Fox Sports 1
 https://www.doomovie-hd.com/?r=tv_view&id=28
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7fbcfe10-347a-11eb-affa-598b7b3bcc90/895058/150303948.png" group-title="Sports", Fox Sports 2
@@ -268,7 +286,7 @@ https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/sky-sports-arena-uk/
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-71TeuFS8dxA/XrqC93OxyFI/AAAAAAAAC2A/Q96whsjHhGc4axIxiEuc5D9ckqQtjuk_QCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BFootball.jpg" group-title="Sports", Sky Sports Football HD
 https://doofootball.livestream-cdn.com/iptv/uk-skysports-football.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-71TeuFS8dxA/XrqC93OxyFI/AAAAAAAAC2A/Q96whsjHhGc4axIxiEuc5D9ckqQtjuk_QCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BFootball.jpg" group-title="Sports", Sky Sports Football HD (Mirror)
-https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/sky-sports-football-uk/
+http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-J0Pyy7gBqro/W7ZpdkCICOI/AAAAAAAAIxw/-On8N-Jw5m0efbXnCc-EVlnp9z7es9guwCLcBGAs/s1600/sky-golf.png" group-title="Sports", Sky Sports Golf HD
 https://doofootball.livestream-cdn.com/iptv/uk-skysports-golf.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-J0Pyy7gBqro/W7ZpdkCICOI/AAAAAAAAIxw/-On8N-Jw5m0efbXnCc-EVlnp9z7es9guwCLcBGAs/s1600/sky-golf.png" group-title="Sports", Sky Sports Golf HD (Mirror)
@@ -278,7 +296,7 @@ https://doofootball.livestream-cdn.com/iptv/uk-skysports-mainevent.stream/chunks
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-eV0eGvfz9RY/XrqC_VebwfI/AAAAAAAAC2I/JhiVZpJqqOQXRYRX2qdF13iqwYxWNxcDwCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BPremier%2BLeague.jpg" group-title="Sports", Sky Sports Premier League HD
 https://doofootball.livestream-cdn.com/iptv/uk-skysports-epl.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-eV0eGvfz9RY/XrqC_VebwfI/AAAAAAAAC2I/JhiVZpJqqOQXRYRX2qdF13iqwYxWNxcDwCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BPremier%2BLeague.jpg" group-title="Sports", Sky Sports Premier League HD (Mirror)
-https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/sky-sports-premier-league-uk/
+http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv1_pt.jpg" group-title="Sports", Sport TV 1
 https://www.doomovie-hd.com/?r=tv_view&id=139
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv2_pt.jpg" group-title="Sports", Sport TV 2
