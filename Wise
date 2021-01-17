@@ -5,12 +5,16 @@ https://we-play.tv/watching/tv/ch3-hd
 https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch5.png" group-title="Digital TV", 5HD
 https://www.livedoomovies.com/02_5HD_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch5.png" group-title="Digital TV", 5HD (Mirror)
+https://we-play.tv/watching/tv/ch5-hd
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch7.png" group-title="Digital TV", 7HD
 https://www.we-play.tv/watching/tv/ch7-hd
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch7.png" group-title="Digital TV", 7HD (Mirror)
 https://www.livedoomovies.com/02_7HD_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mcot.png" group-title="Digital TV", MCOT HD
 https://www.livedoomovies.com/02_MCOTHD_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mcot.png" group-title="Digital TV", MCOT HD (Mirror)
+https://we-play.tv/watching/tv/mcot-hd
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tpbs.png" group-title="Digital TV", TPBS
 https://www.we-play.tv/watching/tv/thai-pbs
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tpbs.png" group-title="Digital TV", TPBS (Mirror)
@@ -29,6 +33,8 @@ https://www.we-play.tv/watching/tv/nationtv
 https://stream-05.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54-LYXF8xAYdS26RHhiURIKg)/dm/3/x7kx5i7/s/live-3.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-gmmone.png" group-title="Digital TV", One31 HD
 https://www.livedoomovies.com/02_GMMONE_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-gmmone.png" group-title="Digital TV", One31 HD (Mirror)
+https://we-play.tv/watching/tv/one-hd
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-pptv.png" group-title="Digital TV", PPTV HD
 https://www.we-play.tv/watching/tv/pptv-hd
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-pptv.png" group-title="Digital TV", PPTV HD (Mirror)
