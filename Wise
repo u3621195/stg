@@ -132,6 +132,8 @@ https://freetvdd.com/%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%a2%e0%b8%99%e0%b8%95%e0%b
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cbs_reality_uk.jpg" group-title="Entertainment", CBS Reality
 https://freetvdd.com/%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%94%e0%b8%b4%e0%b8%88%e0%b8%b4%e0%b8%95%e0%b8%ad%e0%b8%a5/cbs-reality/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cinemax_my.jpg" group-title="Entertainment", Cinemax
+http://dootvthai-hd.com/cmd/api/hbo/maxhd/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cinemax_my.jpg" group-title="Entertainment", Cinemax
 https://we-play.tv/watching/tv/cinemax
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/comedy_central_asia.jpg" group-title="Entertainment", Comedy Central UK
 https://freetvdd.com/%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%94%e0%b8%b4%e0%b8%88%e0%b8%b4%e0%b8%95%e0%b8%ad%e0%b8%a5/comedy-central/
@@ -148,6 +150,8 @@ https://doofootball.livestream-cdn.com/iptv/uk-foodnetwork.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png" group-title="Entertainment", Fox Action Movies
 https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png" group-title="Entertainment", Fox Action Movies
+http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png" group-title="Entertainment", Fox Action Movies
 https://we-play.tv/watching/tv/fox-action-movies
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png" group-title="Entertainment", Fox Family Movies
 https://www.livedoomovies.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
@@ -159,6 +163,8 @@ https://www.doomovie-hd.com/?r=tv_view&id=126
 https://we-play.tv/watching/tv/fox-life
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="Entertainment", Fox Movies Premium
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="Entertainment", Fox Movies Premium
+http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="Entertainment", Fox Movies Premium
 https://www.doomovie-hd.com/?r=tv_view&id=38
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="Entertainment", Fox Movies Premium
@@ -182,13 +188,19 @@ https://www.doomovie-hd.com/?r=tv_view&id=41
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Entertainment", HBO Asia HD
 https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/hbo_family.jpg" group-title="Entertainment", HBO Family
+http://dootvthai-hd.com/cmd/api/hbo/famhd/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/hbo_family.jpg" group-title="Entertainment", HBO Family
 https://we-play.tv/watching/tv/hbo-family
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg" group-title="Entertainment", HBO Hits
 https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg" group-title="Entertainment", HBO Hits
+http://dootvthai-hd.com/cmd/api/hbo/hitshd/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg" group-title="Entertainment", HBO Hits
 https://www.doomovie-hd.com/?r=tv_view&id=43
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg" group-title="Entertainment", HBO Hits
 https://we-play.tv/watching/tv/hbo-hits
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbosignature.jpg" group-title="Entertainment", HBO Signature
+http://dootvthai-hd.com/cmd/api/hbo/sighd/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbosignature.jpg" group-title="Entertainment", HBO Signature
 https://we-play.tv/watching/tv/hbo-signature
 #EXTINF: -1 tvg-logo="https://www.giniko.com/logos/190x110/991.jpg" group-title="Entertainment", Models Inc.
@@ -284,6 +296,8 @@ https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/golf-channel/
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-liverpool.jpg" group-title="Sports", LFCTV
 https://www.lineballsod.com/doball/live-ch27/
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-liverpool.jpg" group-title="Sports", LFCTV
+http://160.119.77.116:8081/iptv/uk-lfctv.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-liverpool.jpg" group-title="Sports", LFCTV
 https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/liverpool-fc-tv/
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-mutv.jpg" group-title="Sports", MUTV
 https://www.lineballsod.com/doball/live-ch26a/
@@ -303,6 +317,8 @@ https://we-play.tv/watching/tv/nfl-network
 https://doofootball.livestream-cdn.com/iptv/epl-1.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png" group-title="Sports", Premiere Football HD 1
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png" group-title="Sports", Premiere Football HD 1
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png" group-title="Sports", Premiere Football HD 1
 https://www.doomovie-hd.com/?r=tv_view&id=151
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png" group-title="Sports", Premiere Football HD 1
@@ -521,10 +537,18 @@ https://freetvdd.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%95%e0%b8%b9%e0%b
 https://www.we-play.tv/watching/tv/nickelodeon
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7sJLzKi.png" group-title="News", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bbc_news.jpg" group-title="News", BBC News
+http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bbc_news.jpg" group-title="News", BBC News
+http://160.119.77.116:8081/iptv/uk-bbc1hd.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bbc_news.jpg" group-title="News", BBC News
+http://160.119.77.116:8081/iptv/hd-bbcworldnews.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nki2HDQ.png" group-title="News", CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cnn_international_asia_pacific.jpg" group-title="News", CNN
 http://36.37.252.114:888/Apple/OneTV-100/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cnn_international_asia_pacific.jpg" group-title="News", CNN
+http://160.119.77.116:8081/iptv/uk-cnn.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nhk_world_radio.jpg" group-title="News", NHK World
 https://www.livedoomovies.com/02_NHK_WORLD_TV_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nhk_world_radio.jpg" group-title="News", NHK World
