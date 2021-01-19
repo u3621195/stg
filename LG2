@@ -125,6 +125,8 @@ https://we-play.tv/watching/tv/blueant-entertainment
 https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/rtl-cbs-th/
 #EXTINF: -1 tvg-logo="https://www.pngitem.com/pimgs/m/597-5974160_blue-ant-extreme-hd-logo-logo-blue-ant.png" group-title="Entertainment", Blue Ant Extreme
 https://we-play.tv/watching/tv/blueant-extreme
+#EXTINF: -1 tvg-logo="https://media.info/i/lf/300/1464128411/1149.png" group-title="Entertainment", Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f&checkedby 
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cbs_action_uk.jpg" group-title="Entertainment", CBS Action
 https://freetvdd.com/%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%a2%e0%b8%99%e0%b8%95%e0%b9%8c/cbs-action/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cbs_drama_uk.jpg" group-title="Entertainment", CBS Drama
@@ -207,6 +209,8 @@ https://we-play.tv/watching/tv/hbo-signature
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_1.jpg" group-title="Entertainment", Sky 1
 https://freetvdd.com/%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7/sky-1-uk/
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_atlantic_hd.jpg" group-title="Entertainment", Sky Atlantic
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/11113?checkedby 
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_atlantic_hd.jpg" group-title="Entertainment", Sky Atlantic
 https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/sky-atlantic-uk/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_movies_premiere_hd.jpg" group-title="Entertainment", Sky Movies Premiere
@@ -294,9 +298,11 @@ https://we-play.tv/watching/tv/golf-channel
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/golf_channel_th.jpg" group-title="Sports", Golf Channel
 https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/golf-channel/
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-liverpool.jpg" group-title="Sports", LFCTV
-https://www.lineballsod.com/doball/live-ch27/
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-liverpool.jpg" group-title="Sports", LFCTV
 http://160.119.77.116:8081/iptv/uk-lfctv.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-liverpool.jpg" group-title="Sports", LFCTV
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/11142?checkedby 
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-liverpool.jpg" group-title="Sports", LFCTV
+https://www.lineballsod.com/doball/live-ch27/
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-liverpool.jpg" group-title="Sports", LFCTV
 https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/liverpool-fc-tv/
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-mutv.jpg" group-title="Sports", MUTV
@@ -377,6 +383,8 @@ https://doofootball.livestream-cdn.com/iptv/uk-skysports-golf.stream/chunks.m3u8
 https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/sky-sports-golf-uk/
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-vL5fvnCJdDA/XrqC_CutwcI/AAAAAAAAC2E/aLM5ZItkeA0CD5NyIVPb5QA7_OIKsjR4gCLcBGAsYHQ/s640/Sky%2BSports%2BMain%2BEvents.jpg" group-title="Sports", Sky Sports Main Event HD
 https://doofootball.livestream-cdn.com/iptv/uk-skysports-mainevent.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-vL5fvnCJdDA/XrqC_CutwcI/AAAAAAAAC2E/aLM5ZItkeA0CD5NyIVPb5QA7_OIKsjR4gCLcBGAsYHQ/s640/Sky%2BSports%2BMain%2BEvents.jpg" group-title="Sports", Sky Sports Main Event HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/11181?checkedby 
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-eV0eGvfz9RY/XrqC_VebwfI/AAAAAAAAC2I/JhiVZpJqqOQXRYRX2qdF13iqwYxWNxcDwCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BPremier%2BLeague.jpg" group-title="Sports", Sky Sports Premier League HD
 https://doofootball.livestream-cdn.com/iptv/uk-skysports-epl.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-eV0eGvfz9RY/XrqC_VebwfI/AAAAAAAAC2I/JhiVZpJqqOQXRYRX2qdF13iqwYxWNxcDwCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BPremier%2BLeague.jpg" group-title="Sports", Sky Sports Premier League HD
@@ -527,6 +535,8 @@ https://www.we-play.tv/watching/tv/cartoon-network
 https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/disney_channel_uk_plus1.jpg" group-title="Kids", Disney Channel
 https://we-play.tv/watching/tv/disney-xd
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/disney_channel_uk_plus1.jpg" group-title="Kids", Disney Channel UK
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/10974?checkedby 
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/disney_junior_uk.jpg" group-title="Kids", Disney Junior USA
 http://myustv.com/watch/disney-junior/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nick_jr_asia.jpg" group-title="Kids", Nick Jr.
@@ -549,6 +559,8 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 http://36.37.252.114:888/Apple/OneTV-100/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cnn_international_asia_pacific.jpg" group-title="News", CNN
 http://160.119.77.116:8081/iptv/uk-cnn.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cnn_international_asia_pacific.jpg" group-title="News", CNN
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/10930?checkedby 
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nhk_world_radio.jpg" group-title="News", NHK World
 https://www.livedoomovies.com/02_NHK_WORLD_TV_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nhk_world_radio.jpg" group-title="News", NHK World
