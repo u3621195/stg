@@ -300,7 +300,7 @@ http://160.119.77.116:8081/iptv/uk-lfctv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-liverpool.jpg" group-title="Sports", LFCTV
 https://www.lineballsod.com/doball/live-ch27/
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-liverpool.jpg" group-title="Sports", LFCTV
-https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/liverpool-fc-tv/
+https://www.liveballsod.com/tv-online/ch061/
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-mutv.jpg" group-title="Sports", MUTV
 https://www.lineballsod.com/doball/live-ch26a/
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-mutv.jpg" group-title="Sports", MUTV
@@ -373,6 +373,8 @@ https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/sky-sports-arena-uk/
 https://doofootball.livestream-cdn.com/iptv/uk-skysports-football.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-71TeuFS8dxA/XrqC93OxyFI/AAAAAAAAC2A/Q96whsjHhGc4axIxiEuc5D9ckqQtjuk_QCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BFootball.jpg" group-title="Sports", Sky Sports Football HD
 http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-71TeuFS8dxA/XrqC93OxyFI/AAAAAAAAC2A/Q96whsjHhGc4axIxiEuc5D9ckqQtjuk_QCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BFootball.jpg" group-title="Sports", Sky Sports Football HD
+https://www.lineballsod.com/doball/live-ch32/
 #EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-J0Pyy7gBqro/W7ZpdkCICOI/AAAAAAAAIxw/-On8N-Jw5m0efbXnCc-EVlnp9z7es9guwCLcBGAs/s1600/sky-golf.png" group-title="Sports", Sky Sports Golf HD
 https://doofootball.livestream-cdn.com/iptv/uk-skysports-golf.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-J0Pyy7gBqro/W7ZpdkCICOI/AAAAAAAAIxw/-On8N-Jw5m0efbXnCc-EVlnp9z7es9guwCLcBGAs/s1600/sky-golf.png" group-title="Sports", Sky Sports Golf HD
@@ -381,10 +383,14 @@ https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/sky-sports-golf-uk/
 https://doofootball.livestream-cdn.com/iptv/uk-skysports-mainevent.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-vL5fvnCJdDA/XrqC_CutwcI/AAAAAAAAC2E/aLM5ZItkeA0CD5NyIVPb5QA7_OIKsjR4gCLcBGAsYHQ/s640/Sky%2BSports%2BMain%2BEvents.jpg" group-title="Sports", Sky Sports Main Event HD
 http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/11181?checkedby 
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-vL5fvnCJdDA/XrqC_CutwcI/AAAAAAAAC2E/aLM5ZItkeA0CD5NyIVPb5QA7_OIKsjR4gCLcBGAsYHQ/s640/Sky%2BSports%2BMain%2BEvents.jpg" group-title="Sports", Sky Sports Main Event HD
+https://www.lineballsod.com/doball/live-ch34/
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-eV0eGvfz9RY/XrqC_VebwfI/AAAAAAAAC2I/JhiVZpJqqOQXRYRX2qdF13iqwYxWNxcDwCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BPremier%2BLeague.jpg" group-title="Sports", Sky Sports Premier League HD
 https://doofootball.livestream-cdn.com/iptv/uk-skysports-epl.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-eV0eGvfz9RY/XrqC_VebwfI/AAAAAAAAC2I/JhiVZpJqqOQXRYRX2qdF13iqwYxWNxcDwCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BPremier%2BLeague.jpg" group-title="Sports", Sky Sports Premier League HD
 http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-eV0eGvfz9RY/XrqC_VebwfI/AAAAAAAAC2I/JhiVZpJqqOQXRYRX2qdF13iqwYxWNxcDwCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BPremier%2BLeague.jpg" group-title="Sports", Sky Sports Premier League HD
+https://www.lineballsod.com/doball/live-ch33/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv1_pt.jpg" group-title="Sports", Sport TV 1
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv1_pt.jpg" group-title="Sports", Sport TV 1
