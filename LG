@@ -245,32 +245,6 @@ https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/world_wrestling_entertainment.jpg" group-title="Sports", WWE Network
 https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/BBC_One_%282002%29.svg/220px-BBC_One_%282002%29.svg.png" group-title="UK TV", BBC 1 UK
-https://easyview.eu/watch.php?stream=bbc-london
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BBC_Two_%282001%29.svg/220px-BBC_Two_%282001%29.svg.png" group-title="UK TV", BBC 2 UK
-https://easyview.eu/watch.php?stream=bbc-two
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1200px-BBC_Four.svg.png" group-title="UK TV", BBC 4 UK
-https://easyview.eu/watch.php?stream=bbc-four
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png" group-title="UK TV", BBC News UK
-https://easyview.eu/watch.php?stream=nbcb
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/1200px-CBBC_2016_logo.svg.png" group-title="UK TV", CBBC UK
-https://easyview.eu/watch.php?stream=cbbc
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bbc_cbeebies.jpg" group-title="UK TV", CBeebies UK
-https://easyview.eu/watch.php?stream=cbeebies
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/itv_uk_delay.jpg" group-title="UK TV", ITV UK
-http://photocall.tv/ftv.m3u8?ch=itv
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/itv_uk_delay.jpg" group-title="UK TV", ITV UK
-https://easyview.eu/watch.php?stream=itv
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/itv2.jpg" group-title="UK TV", ITV2 UK
-http://photocall.tv/ftv.m3u8?ch=itv2
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/itv3.jpg" group-title="UK TV", ITV3 UK
-http://photocall.tv/ftv.m3u8?ch=itv3
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/itv4.jpg" group-title="UK TV", ITV4 UK
-http://photocall.tv/ftv.m3u8?ch=itv4
-#EXTINF: -1 tvg-logo="https://i2.wp.com/tellymix.co.uk/wp-content/uploads/2020/08/itvbe-logo.jpg?resize=1200%2C675&ssl=1" group-title="UK TV", ITVBe UK
-http://photocall.tv/ftv.m3u8?ch=itvbe
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/1200px-S4C_logo_2014.svg.png" group-title="UK TV", S4C UK
-https://easyview.eu/watch.php?stream=s4c
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_us.jpg" group-title="Documentary", Animal Planet
 https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7fbcfe10-347a-11eb-affa-598b7b3bcc90/895058/150303960.png" group-title="Documentary", BBC Earth
