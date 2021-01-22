@@ -75,6 +75,8 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 http://160.119.77.116:8081/iptv/uk-4sevenhd.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/channel5_usa.jpg" group-title="Entertainment", 5 USA
 http://160.119.77.116:8081/iptv/uk-usa.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.logolynx.com/images/logolynx/4b/4bf1221df25d72bffba945ec2ac30210.png" group-title="Entertainment", AFV
+https://66fbef2650a94f95ad9eb85816482b11.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-12-AFV-PLEX/01d4975a-e02c-4a1b-a893-35b194168040/0.m3u8
 #EXTINF: -1 tvg-logo="https://www.logolynx.com/images/logolynx/4b/4bf1221df25d72bffba945ec2ac30210.png" group-title="Entertainment", AFV Family
 http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://web-cdn.blivenyc.com/generic/c90.1280x768.jpg" group-title="Entertainment", American Kennel Club
@@ -113,6 +115,8 @@ https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
 http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png" group-title="Entertainment", Fox Thai
 https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/gameshows/images/1/1a/Game_Show_Central.png/revision/latest/scale-to-width-down/340?cb=20200516095841" group-title="Entertainment", Game Show Central
+https://ffcf6c437bec4f3988224ccfe150499d.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GameShowCentral/b8d1f7f9-3318-46c6-b280-895fcb967d90/4.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Entertainment", HBO HD
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Entertainment", HBO Asia HD
@@ -127,6 +131,10 @@ https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 http://dootvthai-hd.com/cmd/api/hbo/hitshd/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbosignature.jpg" group-title="Entertainment", HBO Signature
 http://dootvthai-hd.com/cmd/api/hbo/sighd/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999320/248x140.png?type=channelTile" group-title="Entertainment", Law & Crime
+https://0e6490ecfe9b4c7696b00aa6767caa75.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_LawAndCrime/04dde445-1c57-4c6a-afb5-5f3dfc2242a7/1.m3u8
+#EXTINF: -1 tvg-logo="https://ondemo.tmsimg.com/assets/p196753_l_h6_ab.jpg" group-title="Entertainment", Made in Hollywood TV
+https://810196ba95e649839da0b32235393623.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MadeInHollywood/1c1d3aeb-fa93-491c-81bd-0c431a393e0c/3.m3u8
 #EXTINF: -1 tvg-logo="https://www.giniko.com/logos/190x110/991.jpg" group-title="Entertainment", Models Inc.
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/true_xzyte.jpg" group-title="Entertainment", True X-Zyte
@@ -285,3 +293,5 @@ http://36.37.252.114:888/Apple/OneTV-100/playlist.m3u8
 http://160.119.77.116:8081/iptv/uk-cnn.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nhk_world_radio.jpg" group-title="News", NHK World
 https://www.livedoomovies.com/02_NHK_WORLD_TV_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/877583804646293504/OoLaxJyw.jpg" group-title="News", Reuters
+https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/5b14ca05-f3a7-428c-b382-97b14ad9183e/7.m3u8
