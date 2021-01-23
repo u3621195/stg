@@ -95,8 +95,6 @@ http://160.119.77.116:8081/iptv/uk-cbsdrama.stream/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/hbo/maxhd/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/comedy_central_asia.jpg" group-title="Entertainment", Comedy Central UK
 http://160.119.77.116:8081/iptv/uk-comedycentral.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/crime_investigation_network_uk.jpg" group-title="Entertainment", Crime+ Investigation
-http://203.154.177.124:8899/live/ch23/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/fashion_tv.jpg" group-title="Entertainment", Fashion TV HD
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/fashion_tv.jpg" group-title="Entertainment", Fashion TV Midnight FHD
@@ -117,8 +115,6 @@ http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
 https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/gameshows/images/1/1a/Game_Show_Central.png/revision/latest/scale-to-width-down/340?cb=20200516095841" group-title="Entertainment", Game Show Central
 https://ffcf6c437bec4f3988224ccfe150499d.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GameShowCentral/b8d1f7f9-3318-46c6-b280-895fcb967d90/4.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Entertainment", HBO HD
-http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Entertainment", HBO Asia HD
 http://dootvthai-hd.com/cmd/hbo/hbohd/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Entertainment", HBO Asia HD
@@ -137,6 +133,8 @@ https://0e6490ecfe9b4c7696b00aa6767caa75.mediatailor.us-east-1.amazonaws.com/v1/
 https://810196ba95e649839da0b32235393623.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MadeInHollywood/1c1d3aeb-fa93-491c-81bd-0c431a393e0c/3.m3u8
 #EXTINF: -1 tvg-logo="https://www.giniko.com/logos/190x110/991.jpg" group-title="Entertainment", Models Inc.
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://image.roku.com/developer_channels/prod/612c2c67a93a6e7fac4bbb51719da0aea9ecec392baaac6a2e9e5ac1b41e3c88.png" group-title="Entertainment", Popstar! TV
+https://bd0c70d8954d416d819afb3e1c940ee6.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-10-POPSTAR-PLEX/155657da-f1a9-4aed-b8aa-4d3f5b2243a0/0.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/true_xzyte.jpg" group-title="Entertainment", True X-Zyte
 https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png" group-title="Entertainment", Warner TV
@@ -251,8 +249,6 @@ https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png" group-title="Sports", True Tennis HD
 https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/world_wrestling_entertainment.jpg" group-title="Sports", WWE Network
-https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_us.jpg" group-title="Documentary", Animal Planet
 https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7fbcfe10-347a-11eb-affa-598b7b3bcc90/895058/150303960.png" group-title="Documentary", BBC Earth
