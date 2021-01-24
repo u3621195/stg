@@ -687,6 +687,8 @@ https://ustvgo.tv/science/
 https://ustvgo.tv/starz-channel-live/
 #EXTINF: -1 tvg-logo="https://www.logo-designer.co/wp-content/uploads/2017/05/2017-syfy-new-logo-design.png" group-title="USTVGO", Syfy USA
 https://ustvgo.tv/syfy-channel-live/
+#EXTINF: -1 tvg-logo="https://www.pngitem.com/pimgs/m/203-2035446_tbs-network-logo-png-transparent-png.png" group-title="USTVGO", TBS
+https://ustvgo.tv/tbs-channel-live-free/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/tennis_channel.jpg" group-title="USTVGO", Tennis Channel USA
 https://ustvgo.tv/tennis-channel-live-free/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/tlc_us.jpg" group-title="USTVGO", TLC USA
