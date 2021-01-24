@@ -633,6 +633,8 @@ https://ustvgo.tv/gsn/
 https://ustvgo.tv/hallmark-channel-live-streaming-free/
 #EXTINF: -1 tvg-logo="https://www.clipartkey.com/mpngs/m/64-649596_picture-hallmark-movies-and-mysteries-channel-logo.png" group-title="USTVGO", Hallmark Movies and Mysteries USA
 https://ustvgo.tv/hallmark-movies-mysteries-live-streaming-free/
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/hbo.jpg" group-title="Entertainment", HBO USA
+https://ustvgo.tv/hbo/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/hgtv_us.jpg" group-title="USTVGO", HGTV USA
 https://ustvgo.tv/hgtv-live-streaming-free/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/hln_us.jpg" group-title="USTVGO", HLN USA
