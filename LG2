@@ -241,8 +241,12 @@ http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport1.jpg" group-title="Sports", Bein 1
 http://160.119.77.116:8081/iptv/epl-bein1.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport1.jpg" group-title="Sports", Bein 1
+https://www.we-play.tv/watching/tv/bein-sports-1
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport2.jpg" group-title="Sports", Bein 2
 http://160.119.77.116:8081/iptv/epl-bein2.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport2.jpg" group-title="Sports", Bein 2
+https://www.we-play.tv/watching/tv/bein-sports-2
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_1_hd.jpg" group-title="Sports", BT Sport HD 1
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_1_hd.jpg" group-title="Sports", BT Sport HD 1
