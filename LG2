@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch3.png" group-title="Digital TV", 3HD
 http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch3.png" group-title="Digital TV", 3HD
@@ -43,6 +43,8 @@ https://stream-02.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSd49CSndndBqrjh6Zx
 https://cdn6.goprimetime.info/feed/chnation/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-nation.png" group-title="Digital TV", Nation TV
 https://www.we-play.tv/watching/tv/nationtv
+#EXTINF: -1 tvg-logo="" group-title="Digital TV", Top News
+https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/3b661110-34b2-11eb-ab87-572b7d84cb76/896044/150893946.png" group-title="Digital TV", New 18
 http://live2.dootvde.com/live/50011_news_tv.stream.smil/playist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/3b661110-34b2-11eb-ab87-572b7d84cb76/896044/150893946.png" group-title="Digital TV", New 18
