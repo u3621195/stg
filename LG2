@@ -1,580 +1,122 @@
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch3.png" group-title="Digital TV", 3HD
-http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch3.png" group-title="Digital TV", 3HD
-https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch3.png" group-title="Digital TV", 3HD
-https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch3.png" group-title="Digital TV", 3HD
-https://we-play.tv/watching/tv/ch3-hd
+https://www.we-play.tv/watching/tv/ch3-hd
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch5.png" group-title="Digital TV", 5HD
-https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch5.png" group-title="Digital TV", 5HD
-https://tc-live1.sanook.com/live/22302_ch5.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch5.png" group-title="Digital TV", 5HD
-https://www.livedoomovies.com/02_5HD_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch5.png" group-title="Digital TV", 5HD
-https://we-play.tv/watching/tv/ch5-hd
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch7.png" group-title="Digital TV", 7HD
-http://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b1210000_sleng.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch7.png" group-title="Digital TV", 7HD
-https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch7.png" group-title="Digital TV", 7HD
-https://www.livedoomovies.com/02_7HD_720p/chunklist.m3u8
+https://www.we-play.tv/watching/tv/ch5-hd
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch7.png" group-title="Digital TV", 7HD
 https://www.we-play.tv/watching/tv/ch7-hd
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mcot.png" group-title="Digital TV", MCOT HD
-https://www.livedoomovies.com/02_MCOTHD_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mcot.png" group-title="Digital TV", MCOT HD
-https://cdn6.goprimetime.info/feed/chmcothd/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mcot.png" group-title="Digital TV", MCOT HD
-https://we-play.tv/watching/tv/mcot-hd
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tpbs.png" group-title="Digital TV", TPBS
-https://cdn6.goprimetime.info/feed/chthaipbs/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tpbs.png" group-title="Digital TV", TPBS
-https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+https://www.we-play.tv/watching/tv/mcot-hd
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tpbs.png" group-title="Digital TV", TPBS
 https://www.we-play.tv/watching/tv/thai-pbs
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-nation.png" group-title="Digital TV", Nation TV
-http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-nation.png" group-title="Digital TV", Nation TV
-https://stream-02.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSd49CSndndBqrjh6Zxxa1ew)/dm/3/x6eoldf/d/live-3.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-nation.png" group-title="Digital TV", Nation TV
-https://cdn6.goprimetime.info/feed/chnation/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-nation.png" group-title="Digital TV", Nation TV
 https://www.we-play.tv/watching/tv/nationtv
 #EXTINF: -1 tvg-logo="https://www.topnews.co.th/wp-content/uploads/2021/01/cropped-topnews-site-logo-3.webp" group-title="Digital TV", Top News
-https://live.topnews.co.th/hls/topnews.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/3b661110-34b2-11eb-ab87-572b7d84cb76/896044/150893946.png" group-title="Digital TV", New 18
-http://live2.dootvde.com/live/50011_news_tv.stream.smil/playist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/3b661110-34b2-11eb-ab87-572b7d84cb76/896044/150893946.png" group-title="Digital TV", New 18
-https://cdn6.goprimetime.info/feed/newtv/index.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/3b661110-34b2-11eb-ab87-572b7d84cb76/896044/150893946.png" group-title="Digital TV", New 18
-https://stream-05.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54-LYXF8xAYdS26RHhiURIKg)/dm/3/x7kx5i7/s/live-3.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-amarin.png" group-title="Digital TV", Amarin TV
-https://www.livedoomovies.com/02_AMARINHD_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-amarin.png" group-title="Digital TV", Amarin TV
-http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-amarin.png" group-title="Digital TV", Amarin TV
-https://cdn6.goprimetime.info/feed/chamarin/index.m3u8
+https://www.we-play.tv/watching/tv/topnews
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-amarin.png" group-title="Digital TV", Amarin TV
 https://www.we-play.tv/watching/tv/amarin-tv
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-gmmchannel.png" group-title="Digital TV", GMM25
-https://we-play.tv/watching/tv/gmm25
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-gmmone.png" group-title="Digital TV", One31 HD
-https://www.livedoomovies.com/02_GMMONE_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-gmmone.png" group-title="Digital TV", One31 HD
-http://live2.dootvde.com/live/50022_one_hd.stream.smil/playist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-gmmone.png" group-title="Digital TV", One31 HD
-https://cdn6.goprimetime.info/feed/chonehd/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-gmmone.png" group-title="Digital TV", One31 HD
-https://we-play.tv/watching/tv/one-hd
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-pptv.png" group-title="Digital TV", PPTV HD
-https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-pptv.png" group-title="Digital TV", PPTV HD
-http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-pptv.png" group-title="Digital TV", PPTV HD
-https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8
+https://www.we-play.tv/watching/tv/one-hd
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-pptv.png" group-title="Digital TV", PPTV HD
 https://www.we-play.tv/watching/tv/pptv-hd
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-thairath.png" group-title="Digital TV", Thairath HD
-https://www.livedoomovies.com/02_THAIRATH_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-thairath.png" group-title="Digital TV", Thairath HD
-http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-thairath.png" group-title="Digital TV", Thairath HD
-https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-thairath.png" group-title="Digital TV", Thairath HD
 https://www.we-play.tv/watching/tv/thairath-tv
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-workpoint.png" group-title="Digital TV", Workpoint
-https://www.livedoomovies.com/02_WORKPOINT_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-workpoint.png" group-title="Digital TV", Workpoint
-http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-workpoint.png" group-title="Digital TV", Workpoint
-https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-workpoint.png" group-title="Digital TV", Workpoint
 https://www.we-play.tv/watching/tv/workpoint
 #EXTINF: -1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/and-flix-hd.jpg" group-title="Entertainment", &Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/and-prive-hd.jpg" group-title="Entertainment", &Privé HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/channel4_seven_uk.jpg" group-title="Entertainment", 4Seven
-http://160.119.77.116:8081/iptv/uk-4sevenhd.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/channel4_seven_uk.jpg" group-title="Entertainment", 4Seven
-https://freetvdd.com/%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%94%e0%b8%b4%e0%b8%88%e0%b8%b4%e0%b8%95%e0%b8%ad%e0%b8%a5/4-seven-uk/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/channel5_usa.jpg" group-title="Entertainment", 5 USA
-http://160.119.77.116:8081/iptv/uk-usa.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/channel5_usa.jpg" group-title="Entertainment", 5 USA
-https://freetvdd.com/%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%94%e0%b8%b4%e0%b8%88%e0%b8%b4%e0%b8%95%e0%b8%ad%e0%b8%a5/5-usa-uk/
-#EXTINF: -1 tvg-logo="https://www.logolynx.com/images/logolynx/4b/4bf1221df25d72bffba945ec2ac30210.png" group-title="Entertainment", AFV Family
-http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/alibi_uktv.jpg" group-title="Entertainment", Alibi
-https://freetvdd.com/%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7/alibi-uk/
 #EXTINF: -1 tvg-logo="https://web-cdn.blivenyc.com/generic/c90.1280x768.jpg" group-title="Entertainment", American Kennel Club
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/axn.jpg" group-title="Entertainment", AXN HD
-https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/axn.jpg" group-title="Entertainment", AXN HD
-https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/axn.jpg" group-title="Entertainment", AXN HD
-https://we-play.tv/watching/tv/axn-hd
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/axn.jpg" group-title="Entertainment", AXN HD
-https://www.doomovie-hd.com/?r=tv_view&id=35
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/axn.jpg" group-title="Entertainment", AXN HD
-https://freetvdd.com/%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%94%e0%b8%b4%e0%b8%88%e0%b8%b4%e0%b8%95%e0%b8%ad%e0%b8%a5/axn/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bbc_lifestyle.jpg" group-title="Entertainment", BBC Lifestyle
-https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bbc_lifestyle.jpg" group-title="Entertainment", BBC Lifestyle
-https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/bbc-lifestyle/
+https://www.we-play.tv/watching/tv/axn-hd
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BLUE-ANT-ENTERTAINMENT-LOGO-BLK_CMYK.jpg" group-title="Entertainment", Blue Ant Entertainment
-https://we-play.tv/watching/tv/blueant-entertainment
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BLUE-ANT-ENTERTAINMENT-LOGO-BLK_CMYK.jpg" group-title="Entertainment", Blue Ant Entertainment
-https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/rtl-cbs-th/
+https://www.we-play.tv/watching/tv/blueant-entertainment
 #EXTINF: -1 tvg-logo="https://www.pngitem.com/pimgs/m/597-5974160_blue-ant-extreme-hd-logo-logo-blue-ant.png" group-title="Entertainment", Blue Ant Extreme
-https://we-play.tv/watching/tv/blueant-extreme
-#EXTINF: -1 tvg-logo="https://media.info/i/lf/300/1464128411/1149.png" group-title="Entertainment", Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f&checkedby 
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cbs_action_uk.jpg" group-title="Entertainment", CBS Action
-http://160.119.77.116:8081/iptv/uk-cbsaction.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cbs_drama_uk.jpg" group-title="Entertainment", CBS Drama
-http://160.119.77.116:8081/iptv/uk-cbsdrama.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cinemax_my.jpg" group-title="Entertainment", Cinemax
-http://dootvthai-hd.com/cmd/api/hbo/maxhd/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cinemax_my.jpg" group-title="Entertainment", Cinemax
-https://we-play.tv/watching/tv/cinemax
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/comedy_central_asia.jpg" group-title="Entertainment", Comedy Central UK
-http://160.119.77.116:8081/iptv/uk-comedycentral.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/crime_investigation_network_uk.jpg" group-title="Entertainment", Crime+ Investigation
-http://203.154.177.124:8899/live/ch23/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/crime_investigation_network_uk.jpg" group-title="Entertainment", Crime+ Investigation
-https://freetvdd.com/uncategorized/inside-crime-investigation/
+https://www.we-play.tv/watching/tv/blueant-extreme
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/fashion_tv.jpg" group-title="Entertainment", Fashion TV HD
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/fashion_tv.jpg" group-title="Entertainment", Fashion TV Midnight FHD
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/food_network_uk.jpg" group-title="Entertainment", Food Network UK
-https://doofootball.livestream-cdn.com/iptv/uk-foodnetwork.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_movies_premium_asia.jpg" group-title="Entertainment", Fox Movies Premium
+https://www.we-play.tv/watching/tv/fox-movies-soundtrack
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png" group-title="Entertainment", Fox Action Movies
-https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png" group-title="Entertainment", Fox Action Movies
-http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png" group-title="Entertainment", Fox Action Movies
-https://we-play.tv/watching/tv/fox-action-movies
+https://www.we-play.tv/watching/tv/fox-action-movies
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png" group-title="Entertainment", Fox Family Movies
-https://www.livedoomovies.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png" group-title="Entertainment", Fox Family Movies
-https://we-play.tv/watching/tv/fox-family-movies
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png" group-title="Entertainment", Fox Family Movies
-https://www.doomovie-hd.com/?r=tv_view&id=126
+https://www.we-play.tv/watching/tv/fox-family-movies
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/02_FOX_Life_HD_720p.png" group-title="Entertainment", Fox Life
-https://we-play.tv/watching/tv/fox-life
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="Entertainment", Fox Movies Premium
-https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="Entertainment", Fox Movies Premium
-http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="Entertainment", Fox Movies Premium
-https://www.doomovie-hd.com/?r=tv_view&id=38
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="Entertainment", Fox Movies Premium
-https://we-play.tv/watching/tv/fox-movies-soundtrack
+https://www.we-play.tv/watching/tv/fox-life
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png" group-title="Entertainment", Fox Thai
-https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png" group-title="Entertainment", Fox Thai
-https://www.doomovie-hd.com/?r=tv_view&id=123
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png" group-title="Entertainment", Fox Thai
-https://we-play.tv/watching/tv/fox-thai
+https://www.we-play.tv/watching/tv/fox-thai
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Entertainment", HBO HD
-http://136.243.177.164/HBO/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Entertainment", HBO Asia HD
-http://dootvthai-hd.com/cmd/hbo/hbohd/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Entertainment", HBO Asia HD
-https://we-play.tv/watching/tv/hbo-hd
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Entertainment", HBO Asia HD
-https://www.doomovie-hd.com/?r=tv_view&id=41
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Entertainment", HBO Asia HD
-https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
+https://www.we-play.tv/watching/tv/hbo-hd
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/hbo_family.jpg" group-title="Entertainment", HBO Family
-http://dootvthai-hd.com/cmd/api/hbo/famhd/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/hbo_family.jpg" group-title="Entertainment", HBO Family
-https://we-play.tv/watching/tv/hbo-family
+https://www.we-play.tv/watching/tv/hbo-family
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg" group-title="Entertainment", HBO Hits
-https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg" group-title="Entertainment", HBO Hits
-http://dootvthai-hd.com/cmd/api/hbo/hitshd/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg" group-title="Entertainment", HBO Hits
-https://www.doomovie-hd.com/?r=tv_view&id=43
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg" group-title="Entertainment", HBO Hits
-https://we-play.tv/watching/tv/hbo-hits
+https://www.we-play.tv/watching/tv/hbo-hits
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbosignature.jpg" group-title="Entertainment", HBO Signature
-http://dootvthai-hd.com/cmd/api/hbo/sighd/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbosignature.jpg" group-title="Entertainment", HBO Signature
-https://we-play.tv/watching/tv/hbo-signature
-#EXTINF: -1 tvg-logo="https://www.giniko.com/logos/190x110/991.jpg" group-title="Entertainment", Models Inc.
-https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_1.jpg" group-title="Entertainment", Sky 1
-https://freetvdd.com/%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7/sky-1-uk/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_atlantic_hd.jpg" group-title="Entertainment", Sky Atlantic
-https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/sky-atlantic-uk/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_movies_premiere_hd.jpg" group-title="Entertainment", Sky Movies Premiere
-https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/sky-movies-premiere/
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tfilm.png" group-title="Entertainment", True Film HD
-https://we-play.tv/watching/tv/true-film-hd
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-thaifilm.png" group-title="Entertainment", True Thai Film
-https://we-play.tv/watching/tv/true-thai-film
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/true_xzyte.jpg" group-title="Entertainment", True X-Zyte
-https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/universal_channel_uk.jpg" group-title="Entertainment", Universal Channel UK
-https://freetvdd.com/%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%a2%e0%b8%99%e0%b8%95%e0%b9%8c/universal-channel/
+https://www.we-play.tv/watching/tv/hbo-signature
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png" group-title="Entertainment", Warner TV
-http://203.154.177.124:8899/live/ch12/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png" group-title="Entertainment", Warner TV
-https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png" group-title="Entertainment", Warner TV
-https://we-play.tv/watching/tv/warner-tv
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png" group-title="Entertainment", Warner TV
-https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/warner-tv/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/true_xzyte.jpg" group-title="Entertainment", X-Zyte HD
-https://we-play.tv/watching/tv/true-xzyte
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/astro_supersport1.jpg" group-title="Sports", Astro Supersport 1
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/astro_supersport2.jpg" group-title="Sports", Astro Supersport 2
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/astro_supersport3.jpg" group-title="Sports", Astro Supersport 3
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/astro_supersport4.jpg" group-title="Sports", Astro Supersport 4
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport1.jpg" group-title="Sports", Bein 1
-http://160.119.77.116:8081/iptv/epl-bein1.stream/playlist.m3u8
+https://www.we-play.tv/watching/tv/warner-tv
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport1.jpg" group-title="Sports", Bein 1
 https://www.we-play.tv/watching/tv/bein-sports-1
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport2.jpg" group-title="Sports", Bein 2
-http://160.119.77.116:8081/iptv/epl-bein2.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport2.jpg" group-title="Sports", Bein 2
 https://www.we-play.tv/watching/tv/bein-sports-2
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_1_hd.jpg" group-title="Sports", BT Sport HD 1
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_1_hd.jpg" group-title="Sports", BT Sport HD 1
-https://www.doomovie-hd.com/?r=tv_view&id=156
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_1_hd.jpg" group-title="Sports", BT Sport HD 1
-https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/bt-sports/
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_2_hd.jpg" group-title="Sports", BT Sport HD 2
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_2_hd.jpg" group-title="Sports", BT Sport HD 2
-https://www.doomovie-hd.com/?r=tv_view&id=157
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_2_hd.jpg" group-title="Sports", BT Sport HD 2
-https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/bt-sports-2-hd-uk/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/espn_uk.jpg" group-title="Sports", ESPN UK
-https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/espn/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="Sports", Eurosport
-https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/euro-sport/
+https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg" group-title="Sports", Eurosport 1
-https://doofootball.livestream-cdn.com/iptv/uk-eurosport.stream/playlist.m3u8
+https://www.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.stream2watch.is/images/streams/125071/600x400/15995812859008.png" group-title="Sports", Eurosport 2
-https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7fbcfe10-347a-11eb-affa-598b7b3bcc90/895058/150303947.png" group-title="Sports", Fox Sports 1
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7fbcfe10-347a-11eb-affa-598b7b3bcc90/895058/150303947.png" group-title="Sports", Fox Sports 1
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7fbcfe10-347a-11eb-affa-598b7b3bcc90/895058/150303947.png" group-title="Sports", Fox Sports 1
-https://www.doomovie-hd.com/?r=tv_view&id=28
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7fbcfe10-347a-11eb-affa-598b7b3bcc90/895058/150303948.png" group-title="Sports", Fox Sports 2
-http://103.208.24.234:1935/thaisport/sd-foxsports2.stream/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7fbcfe10-347a-11eb-affa-598b7b3bcc90/895058/150303948.png" group-title="Sports", Fox Sports 2
-https://doofootball.livestream-cdn.com/iptv/sd-foxsports2.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7fbcfe10-347a-11eb-affa-598b7b3bcc90/895058/150303948.png" group-title="Sports", Fox Sports 2
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7fbcfe10-347a-11eb-affa-598b7b3bcc90/895058/150303948.png" group-title="Sports", Fox Sports 2
-https://www.doomovie-hd.com/?r=tv_view&id=29
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7fbcfe10-347a-11eb-affa-598b7b3bcc90/895058/150303949.png" group-title="Sports", Fox Sports 3
-http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7fbcfe10-347a-11eb-affa-598b7b3bcc90/895058/150303949.png" group-title="Sports", Fox Sports 3
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7fbcfe10-347a-11eb-affa-598b7b3bcc90/895058/150303949.png" group-title="Sports", Fox Sports 3
-https://www.doomovie-hd.com/?r=tv_view&id=30
+https://www.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/golf_channel_th.jpg" group-title="Sports", Golf Channel
-http://103.208.24.234:1935/thaisport/hd-golf.stream/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/golf_channel_th.jpg" group-title="Sports", Golf Channel
-https://doofootball.livestream-cdn.com/iptv/hd-golf.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/golf_channel_th.jpg" group-title="Sports", Golf Channel
-https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/golf_channel_th.jpg" group-title="Sports", Golf Channel
-https://www.doomovie-hd.com/?r=tv_view&id=27
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/golf_channel_th.jpg" group-title="Sports", Golf Channel
-https://we-play.tv/watching/tv/golf-channel
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/golf_channel_th.jpg" group-title="Sports", Golf Channel
-https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/golf-channel/
+https://www.we-play.tv/watching/tv/golf-channel
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-liverpool.jpg" group-title="Sports", LFCTV
-http://160.119.77.116:8081/iptv/uk-lfctv.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-liverpool.jpg" group-title="Sports", LFCTV
-https://www.lineballsod.com/doball/live-ch27/
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-liverpool.jpg" group-title="Sports", LFCTV
-https://www.liveballsod.com/tv-online/ch061/
+https://www.livedoomovie.com/02_lfctv_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-mutv.jpg" group-title="Sports", MUTV
-https://www.lineballsod.com/doball/live-ch26a/
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-mutv.jpg" group-title="Sports", MUTV
-https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/mutv/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nba_tv.jpg" group-title="Sports", NBA TV
-https://doofootball.livestream-cdn.com/iptv/hd-nba.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nba_tv.jpg" group-title="Sports", NBA TV
-https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nba_tv.jpg" group-title="Sports", NBA TV
-https://www.doomovie-hd.com/?r=tv_view&id=25
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nba_tv.jpg" group-title="Sports", NBA TV
-https://we-play.tv/watching/tv/nba-tv
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nfl_network.jpg" group-title="Sports", NFL Network
-https://we-play.tv/watching/tv/nfl-network
+https://www.livedoomovie.com/02_MUTV_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png" group-title="Sports", Premiere Football HD 1
-https://doofootball.livestream-cdn.com/iptv/epl-1.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png" group-title="Sports", Premiere Football HD 1
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png" group-title="Sports", Premiere Football HD 1
-http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png" group-title="Sports", Premiere Football HD 1
-https://www.doomovie-hd.com/?r=tv_view&id=151
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png" group-title="Sports", Premiere Football HD 1
-https://we-play.tv/watching/tv/true-premier-football-hd-1
+https://www.we-play.tv/watching/tv/true-premier-football-hd-1
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png" group-title="Sports", Premiere Football HD 2
-http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png" group-title="Sports", Premiere Football HD 2
-https://doofootball.livestream-cdn.com/iptv/epl-2.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png" group-title="Sports", Premiere Football HD 2
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png" group-title="Sports", Premiere Football HD 2
-https://www.doomovie-hd.com/?r=tv_view&id=152
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png" group-title="Sports", Premiere Football HD 2
-https://we-play.tv/watching/tv/true-premier-football-hd-2
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl3.png" group-title="Sports", Premiere Football HD 3
-http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl3.png" group-title="Sports", Premiere Football HD 3
-http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl3.png" group-title="Sports", Premiere Football HD 3
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl3.png" group-title="Sports", Premiere Football HD 3
-https://www.doomovie-hd.com/?r=tv_view&id=153
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl3.png" group-title="Sports", Premiere Football HD 3
-https://we-play.tv/watching/tv/true-premier-football-hd-3
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png" group-title="Sports", Premiere Football HD 4
-http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png" group-title="Sports", Premiere Football HD 4
-http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png" group-title="Sports", Premiere Football HD 4
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png" group-title="Sports", Premiere Football HD 4
-https://www.doomovie-hd.com/?r=tv_view&id=154
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png" group-title="Sports", Premiere Football HD 4
-https://we-play.tv/watching/tv/true-premier-football-hd-4
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png" group-title="Sports", Premiere Football HD 5
-http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png" group-title="Sports", Premiere Football HD 5
-http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png" group-title="Sports", Premiere Football HD 5
-https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png" group-title="Sports", Premiere Football HD 5
-https://www.doomovie-hd.com/?r=tv_view&id=155
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png" group-title="Sports", Premiere Football HD 5
-https://we-play.tv/watching/tv/true-premier-football-hd-5
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_sports.jpg" group-title="Sports", Sky Sports Arena HD
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-arena.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_sports.jpg" group-title="Sports", Sky Sports Arena HD
-https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/sky-sports-arena-uk/
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-71TeuFS8dxA/XrqC93OxyFI/AAAAAAAAC2A/Q96whsjHhGc4axIxiEuc5D9ckqQtjuk_QCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BFootball.jpg" group-title="Sports", Sky Sports Football HD
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-football.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-71TeuFS8dxA/XrqC93OxyFI/AAAAAAAAC2A/Q96whsjHhGc4axIxiEuc5D9ckqQtjuk_QCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BFootball.jpg" group-title="Sports", Sky Sports Football HD
-http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-71TeuFS8dxA/XrqC93OxyFI/AAAAAAAAC2A/Q96whsjHhGc4axIxiEuc5D9ckqQtjuk_QCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BFootball.jpg" group-title="Sports", Sky Sports Football HD
-https://www.lineballsod.com/doball/live-ch32/
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-J0Pyy7gBqro/W7ZpdkCICOI/AAAAAAAAIxw/-On8N-Jw5m0efbXnCc-EVlnp9z7es9guwCLcBGAs/s1600/sky-golf.png" group-title="Sports", Sky Sports Golf HD
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-golf.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-J0Pyy7gBqro/W7ZpdkCICOI/AAAAAAAAIxw/-On8N-Jw5m0efbXnCc-EVlnp9z7es9guwCLcBGAs/s1600/sky-golf.png" group-title="Sports", Sky Sports Golf HD
-https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/sky-sports-golf-uk/
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-vL5fvnCJdDA/XrqC_CutwcI/AAAAAAAAC2E/aLM5ZItkeA0CD5NyIVPb5QA7_OIKsjR4gCLcBGAsYHQ/s640/Sky%2BSports%2BMain%2BEvents.jpg" group-title="Sports", Sky Sports Main Event HD
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-mainevent.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-vL5fvnCJdDA/XrqC_CutwcI/AAAAAAAAC2E/aLM5ZItkeA0CD5NyIVPb5QA7_OIKsjR4gCLcBGAsYHQ/s640/Sky%2BSports%2BMain%2BEvents.jpg" group-title="Sports", Sky Sports Main Event HD
-http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/11181?checkedby 
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-vL5fvnCJdDA/XrqC_CutwcI/AAAAAAAAC2E/aLM5ZItkeA0CD5NyIVPb5QA7_OIKsjR4gCLcBGAsYHQ/s640/Sky%2BSports%2BMain%2BEvents.jpg" group-title="Sports", Sky Sports Main Event HD
-https://www.lineballsod.com/doball/live-ch34/
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-eV0eGvfz9RY/XrqC_VebwfI/AAAAAAAAC2I/JhiVZpJqqOQXRYRX2qdF13iqwYxWNxcDwCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BPremier%2BLeague.jpg" group-title="Sports", Sky Sports Premier League HD
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-epl.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-eV0eGvfz9RY/XrqC_VebwfI/AAAAAAAAC2I/JhiVZpJqqOQXRYRX2qdF13iqwYxWNxcDwCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BPremier%2BLeague.jpg" group-title="Sports", Sky Sports Premier League HD
-http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-eV0eGvfz9RY/XrqC_VebwfI/AAAAAAAAC2I/JhiVZpJqqOQXRYRX2qdF13iqwYxWNxcDwCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BPremier%2BLeague.jpg" group-title="Sports", Sky Sports Premier League HD
-https://www.lineballsod.com/doball/live-ch33/
+https://www.we-play.tv/watching/tv/true-premier-football-hd-2
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv1_pt.jpg" group-title="Sports", Sport TV 1
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv1_pt.jpg" group-title="Sports", Sport TV 1
-https://www.doomovie-hd.com/?r=tv_view&id=139
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv2_pt.jpg" group-title="Sports", Sport TV 2
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv2_pt.jpg" group-title="Sports", Sport TV 2
-https://www.doomovie-hd.com/?r=tv_view&id=140
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv3_pt.jpg" group-title="Sports", Sport TV 3
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv3_pt.jpg" group-title="Sports", Sport TV 3
-https://www.doomovie-hd.com/?r=tv_view&id=141
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv4_pt.jpg" group-title="Sports", Sport TV 4
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv4_pt.jpg" group-title="Sports", Sport TV 4
-https://www.doomovie-hd.com/?r=tv_view&id=142
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/tennis_channel.jpg" group-title="Sports", Tennis Channel
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png" group-title="Sports", True Sport HD
-https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png" group-title="Sports", True Sport HD
-https://www.doomovie-hd.com/?r=tv_view&id=22
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png" group-title="Sports", True Sport HD
-https://we-play.tv/watching/tv/true-sports-hd
+https://www.we-play.tv/watching/tv/true-sports-hd
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png" group-title="Sports", True Sport HD 2
-https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png" group-title="Sports", True Sport HD 2
-https://www.doomovie-hd.com/?r=tv_view&id=23
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png" group-title="Sports", True Sport HD 2
-https://we-play.tv/watching/tv/true-sports-hd-2
+https://www.we-play.tv/watching/tv/true-sports-hd-2
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png" group-title="Sports", True Sport HD 3
-https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png" group-title="Sports", True Sport HD 3
-https://www.doomovie-hd.com/?r=tv_view&id=24
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png" group-title="Sports", True Sport HD 3
-https://we-play.tv/watching/tv/true-sports-hd-3
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png" group-title="Sports", True Tennis HD
-https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png" group-title="Sports", True Tennis HD
-https://www.doomovie-hd.com/?r=tv_view&id=26
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png" group-title="Sports", True Tennis HD
-https://we-play.tv/watching/tv/true-tennis
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/world_wrestling_entertainment.jpg" group-title="Sports", WWE Network
-https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/world_wrestling_entertainment.jpg" group-title="Sports", WWE Network
-https://www.doomovie-hd.com/?r=tv_view&id=230
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/BBC_One_%282002%29.svg/220px-BBC_One_%282002%29.svg.png" group-title="UK TV", BBC 1 UK
-https://easyview.eu/watch.php?stream=bbc-london
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/BBC_One_%282002%29.svg/220px-BBC_One_%282002%29.svg.png" group-title="UK TV", BBC 1 UK
-https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/bbc-one-uk/
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BBC_Two_%282001%29.svg/220px-BBC_Two_%282001%29.svg.png" group-title="UK TV", BBC 2 UK
-https://easyview.eu/watch.php?stream=bbc-two
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BBC_Two_%282001%29.svg/220px-BBC_Two_%282001%29.svg.png" group-title="UK TV", BBC 2 UK
-https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/bbc-two-uk/
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1200px-BBC_Four.svg.png" group-title="UK TV", BBC 4 UK
-https://easyview.eu/watch.php?stream=bbc-four
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1200px-BBC_Four.svg.png" group-title="UK TV", BBC 4 UK
-https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/bbc-four-uk/
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png" group-title="UK TV", BBC News UK
-https://easyview.eu/watch.php?stream=nbcb
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/1200px-CBBC_2016_logo.svg.png" group-title="UK TV", CBBC UK
-https://easyview.eu/watch.php?stream=cbbc
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bbc_cbeebies.jpg" group-title="UK TV", CBeebies UK
-https://easyview.eu/watch.php?stream=cbeebies
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/itv_uk_delay.jpg" group-title="UK TV", ITV UK
-http://photocall.tv/ftv.m3u8?ch=itv
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/itv_uk_delay.jpg" group-title="UK TV", ITV UK
-https://easyview.eu/watch.php?stream=itv
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/itv2.jpg" group-title="UK TV", ITV2 UK
-http://photocall.tv/ftv.m3u8?ch=itv2
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/itv3.jpg" group-title="UK TV", ITV3 UK
-http://photocall.tv/ftv.m3u8?ch=itv3
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/itv4.jpg" group-title="UK TV", ITV4 UK
-http://photocall.tv/ftv.m3u8?ch=itv4
-#EXTINF: -1 tvg-logo="https://i2.wp.com/tellymix.co.uk/wp-content/uploads/2020/08/itvbe-logo.jpg?resize=1200%2C675&ssl=1" group-title="UK TV", ITVBe UK
-http://photocall.tv/ftv.m3u8?ch=itvbe
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/1200px-S4C_logo_2014.svg.png" group-title="UK TV", S4C UK
-https://easyview.eu/watch.php?stream=s4c
+https://www.we-play.tv/watching/tv/true-sports-hd-3
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_us.jpg" group-title="Documentary", Animal Planet
-https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_us.jpg" group-title="Documentary", Animal Planet
-https://we-play.tv/watching/tv/animal-planet
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_us.jpg" group-title="Documentary", Animal Planet
-https://www.doomovie-hd.com/?r=tv_view&id=55
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/food_network_asia.jpg" group-title="Documentary", Asian Food Network
-https://we-play.tv/watching/tv/asian-food-channel
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/food_network_asia.jpg" group-title="Documentary", Asian Food Network
-https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/afc-asian-food-channel/
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7fbcfe10-347a-11eb-affa-598b7b3bcc90/895058/150303960.png" group-title="Documentary", BBC Earth
-https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/7fbcfe10-347a-11eb-affa-598b7b3bcc90/895058/150303960.png" group-title="Documentary", BBC Earth
-https://www.doomovie-hd.com/?r=tv_view&id=52
+https://www.we-play.tv/watching/tv/animal-planet
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-discovery.png" group-title="Documentary", Discovery Asia
-https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-discovery.png" group-title="Documentary", Discovery Asia
-https://we-play.tv/watching/tv/discovery-asia
-#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-discovery.png" group-title="Documentary", Discovery Asia
-https://www.doomovie-hd.com/?r=tv_view&id=57
+https://www.we-play.tv/watching/tv/discovery-asia
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/discovery_se_asia.jpg" group-title="Documentary", Discovery Channel
-https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/discovery_se_asia.jpg" group-title="Documentary", Discovery Channel
-https://we-play.tv/watching/tv/discovery-channel
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/discovery_se_asia.jpg" group-title="Documentary", Discovery Channel
-https://www.doomovie-hd.com/?r=tv_view&id=56
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/food_network_ca_hd.jpg" group-title="Documentary", Food Network
-https://we-play.tv/watching/tv/food-network
+https://www.we-play.tv/watching/tv/discovery-channel
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/history_2_us.jpg" group-title="Documentary", H2
-https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/history_2_us.jpg" group-title="Documentary", H2
-https://we-play.tv/watching/tv/history-h2
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/history_2_us.jpg" group-title="Documentary", H2
-https://www.doomovie-hd.com/?r=tv_view&id=58
+https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/history_asia.jpg" group-title="Documentary", History HD
-https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/history_asia.jpg" group-title="Documentary", History HD
-https://we-play.tv/watching/tv/history-hd
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/history_asia.jpg" group-title="Documentary", History HD
-https://www.doomovie-hd.com/?r=tv_view&id=59
+https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia.jpg" group-title="Documentary", Nat Geo Wild
-https://www.livedoomovies.com/02_NatGeoHD_TH_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia.jpg" group-title="Documentary", Nat Geo Wild
-https://we-play.tv/watching/tv/nat-geo-wild
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia.jpg" group-title="Documentary", Nat Geo Wild
-https://www.doomovie-hd.com/?r=tv_view&id=117
+https://www.we-play.tv/watching/tv/nat-geo-wild
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_uk.jpg" group-title="Documentary", National Geographic
-https://www.livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_uk.jpg" group-title="Documentary", National Geographic
-https://we-play.tv/watching/tv/national-geographic
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_uk.jpg" group-title="Documentary", National Geographic
-https://www.doomovie-hd.com/?r=tv_view&id=49
+https://www.we-play.tv/watching/tv/national-geographic
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/aniplus_kr.jpg" group-title="Kids", Aniplus
 https://www.we-play.tv/watching/tv/aniplus
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/boomerang_uk.jpg" group-title="Kids", Boomerang
-https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_club.jpg" group-title="Kids", Cartoon Club
-https://we-play.tv/watching/tv/cartoon-club
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_network_us.jpg" group-title="Kids", Cartoon Network
-https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_network_us.jpg" group-title="Kids", Cartoon Network
-https://www.doomovie-hd.com/?r=tv_view&id=84
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_network_us.jpg" group-title="Kids", Cartoon Network
 https://www.we-play.tv/watching/tv/cartoon-network
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/disney_channel_uk.jpg" group-title="Kids", Disney Channel
-https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/disney_channel_uk_plus1.jpg" group-title="Kids", Disney Channel
-https://we-play.tv/watching/tv/disney-xd
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/disney_channel_uk_plus1.jpg" group-title="Kids", Disney Channel UK
-http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/10974?checkedby 
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/disney_junior_uk.jpg" group-title="Kids", Disney Junior USA
-http://myustv.com/watch/disney-junior/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nick_jr_asia.jpg" group-title="Kids", Nick Jr.
-https://doofootball.livestream-cdn.com/iptv/uk-nickjr.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nick_jr_uk.jpg" group-title="Kids", Nick Jr.
-https://freetvdd.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%95%e0%b8%b9%e0%b8%99/nick-jr/
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nickelodeon_us.jpg" group-title="Kids", Nickelodeon
-https://www.we-play.tv/watching/tv/nickelodeon
-#EXTINF: -1 tvg-logo="https://i.imgur.com/7sJLzKi.png" group-title="News", ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bbc_news.jpg" group-title="News", BBC News
-http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bbc_news.jpg" group-title="News", BBC News
-http://160.119.77.116:8081/iptv/uk-bbc1hd.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/bbc_news.jpg" group-title="News", BBC News
-http://160.119.77.116:8081/iptv/hd-bbcworldnews.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/nki2HDQ.png" group-title="News", CBSN
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+https://www.we-play.tv/watching/tv/disney-xd
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cnn_international_asia_pacific.jpg" group-title="News", CNN
-http://36.37.252.114:888/Apple/OneTV-100/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cnn_international_asia_pacific.jpg" group-title="News", CNN
-http://160.119.77.116:8081/iptv/uk-cnn.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/cnn_international_asia_pacific.jpg" group-title="News", CNN
-http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/10930?checkedby 
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nhk_world_radio.jpg" group-title="News", NHK World
-https://www.livedoomovies.com/02_NHK_WORLD_TV_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/nhk_world_radio.jpg" group-title="News", NHK World
-https://www.doomovie-hd.com/?r=tv_view&id=206
-#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_news.jpg" group-title="News", Sky News
-https://freetvdd.com/%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7/sky-news-uk/
+https://www.we-play.tv/watching/tv/cnn
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/abc_hd.jpg" group-title="USTVGO", ABC USA
 https://ustvgo.tv/abc-live-streaming-free/
 #EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/ae_us.jpg" group-title="USTVGO", A&E USA
