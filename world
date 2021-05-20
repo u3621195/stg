@@ -139,13 +139,13 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/392655
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/392654
 #EXTINF:-1 tvg-id="DiscoveryLife.us" tvg-name="DISCOVERY LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/200px-InvestigationDiscovery.png" group-title="ENGLISH",DISCOVERY LIFE
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52965
-#EXTINF:-1 tvg-id="DiscoveryScience.ca" tvg-name="DISCOVERY SCIENCE HD *" tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png" group-title="ENGLISH",DISCOVERY SCIENCE HD *
+#EXTINF:-1 tvg-id="DiscoveryScience.ca" tvg-name="DISCOVERY SCIENCE HD 987654" tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png" group-title="ENGLISH",DISCOVERY SCIENCE HD 987654
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7907
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/discovery-channel-east-us.png" group-title="ENGLISH",DISCOVERY CHANNEL HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7889
 #EXTINF:-1 tvg-id="CrimeInvestigation.us" tvg-name="CRIME AND INVESTIGATION HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/crime_investigation_us.png" group-title="ENGLISH",CRIME AND INVESTIGATION HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52964
-#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="INVESTIGATION DISCOVERY *" tvg-logo="http://38.143.137.20/logo/prestige/United-States/investigation_discovery_xtra.png" group-title="ENGLISH",INVESTIGATION DISCOVERY *
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="INVESTIGATION DISCOVERY 987654" tvg-logo="http://38.143.137.20/logo/prestige/United-States/investigation_discovery_xtra.png" group-title="ENGLISH",INVESTIGATION DISCOVERY 987654
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7848
 #EXTINF:-1 tvg-id="DiscoveryVelocity.ca" tvg-name="MOTOR TREND HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/ID_Canada_Logo.png" group-title="ENGLISH",MOTOR TREND HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7850
@@ -221,11 +221,11 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15452
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15456
 #EXTINF:-1 tvg-id="" tvg-name="--------- Canadian SD ---------" tvg-logo="https://i.ytimg.com/an_webp/kRPGPAnPNa8/mqdefault_6s.webp?du=3000&sqp=CJOzoeMF&rs=AOn4CLCz5n0S_ntII6HFxcnvTUPTB2Lo7w" group-title="ENGLISH",--------- Canadian SD ---------
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/19485
-#EXTINF:-1 tvg-id="Cp24.ca" tvg-name="CA: CP24*" tvg-logo="http://38.143.137.20/logo/prestige/Canada/cp_24_ca.png" group-title="ENGLISH",CA: CP24*
+#EXTINF:-1 tvg-id="Cp24.ca" tvg-name="CA: CP24987654" tvg-logo="http://38.143.137.20/logo/prestige/Canada/cp_24_ca.png" group-title="ENGLISH",CA: CP24987654
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/5020
-#EXTINF:-1 tvg-id="Cp24.ca" tvg-name="CA: CP24**" tvg-logo="http://38.143.137.20/logo/prestige/Canada/cp_24_ca.png" group-title="ENGLISH",CA: CP24**
+#EXTINF:-1 tvg-id="Cp24.ca" tvg-name="CA: CP24" tvg-logo="http://38.143.137.20/logo/prestige/Canada/cp_24_ca.png" group-title="ENGLISH",CA: CP24
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7919
-#EXTINF:-1 tvg-id="Cp24.ca" tvg-name="CA: CP24***" tvg-logo="http://38.143.137.20/logo/prestige/Canada/cp_24_ca.png" group-title="ENGLISH",CA: CP24***
+#EXTINF:-1 tvg-id="Cp24.ca" tvg-name="CA: CP24987654" tvg-logo="http://38.143.137.20/logo/prestige/Canada/cp_24_ca.png" group-title="ENGLISH",CA: CP24987654
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/5115
 #EXTINF:-1 tvg-id="ONEgetFit.ca" tvg-name="CA: ONE Get Fit HD" tvg-logo="http://glmtv.pw/logo/prestige/Canada/one_ca.png" group-title="ENGLISH",CA: ONE Get Fit HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21050
@@ -967,167 +967,166 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31026
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31021
 #EXTINF:-1 tvg-id="NBATV.ca" tvg-name=".NBA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",.NBA HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/4997
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="*NBA01: TBS (05.16-1:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",*NBA01: TBS (05.16-1:00PM ET)
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="987654NBA01: TBS (05.16-1:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",987654NBA01: TBS (05.16-1:00PM ET)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7994
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="*NBA02: TBS (05.16-1:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",*NBA02: TBS (05.16-1:00PM ET)
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="987654NBA02: TBS (05.16-1:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",987654NBA02: TBS (05.16-1:00PM ET)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7946
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="*NBA03: TBS (05.16-1:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",*NBA03: TBS (05.16-1:00PM ET)
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="987654NBA03: TBS (05.16-1:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",987654NBA03: TBS (05.16-1:00PM ET)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7945
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="*NBA04: TBS (05.16-2:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",*NBA04: TBS (05.16-2:00PM ET)
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="987654NBA04: TBS (05.16-2:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",987654NBA04: TBS (05.16-2:00PM ET)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7944
-#EXTINF:-1 tvg-id="NBALeaguePass6.us" tvg-name="*NBA05: TBS (05.16-3:30PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",*NBA05: TBS (05.16-3:30PM ET)
+#EXTINF:-1 tvg-id="NBALeaguePass6.us" tvg-name="987654NBA05: TBS (05.16-3:30PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",987654NBA05: TBS (05.16-3:30PM ET)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7943
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="*NBA06: TBS (05.16-7:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",*NBA06: TBS (05.16-7:00PM ET)
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="987654NBA06: TBS (05.16-7:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",987654NBA06: TBS (05.16-7:00PM ET)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7942
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="*NBA07: TBS (05.16-7:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",*NBA07: TBS (05.16-7:00PM ET)
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="987654NBA07: TBS (05.16-7:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",987654NBA07: TBS (05.16-7:00PM ET)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7941
-#EXTINF:-1 tvg-id="NBALeaguePass8.us" tvg-name="*NBA08: TBS (05.16-7:30PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",*NBA08: TBS (05.16-7:30PM ET)
+#EXTINF:-1 tvg-id="NBALeaguePass8.us" tvg-name="987654NBA08: TBS (05.16-7:30PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",987654NBA08: TBS (05.16-7:30PM ET)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/60413
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="*NBA09: TBS (05.16-8:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",*NBA09: TBS (05.16-8:00PM ET)
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="987654NBA09: TBS (05.16-8:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",987654NBA09: TBS (05.16-8:00PM ET)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7939
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="*NBA10: TBS (05.16-9:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",*NBA10: TBS (05.16-9:00PM ET)
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="987654NBA10: TBS (05.16-9:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",987654NBA10: TBS (05.16-9:00PM ET)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7938
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="*NBA11: TBS (05.16-9:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",*NBA11: TBS (05.16-9:00PM ET)
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="987654NBA11: TBS (05.16-9:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",987654NBA11: TBS (05.16-9:00PM ET)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/68589
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="*NBA12: TBS (05.16-9:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",*NBA12: TBS (05.16-9:00PM ET)
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="987654NBA12: TBS (05.16-9:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",987654NBA12: TBS (05.16-9:00PM ET)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/69412
-#EXTINF:-1 tvg-id="" tvg-name="*NBA13: TBS (05.16-9:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",*NBA13: TBS (05.16-9:00PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="987654NBA13: TBS (05.16-9:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",987654NBA13: TBS (05.16-9:00PM ET)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148414
-#EXTINF:-1 tvg-id="" tvg-name="*NBA14: TBS (05.16-9:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",*NBA14: TBS (05.16-9:00PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="987654NBA14: TBS (05.16-9:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",987654NBA14: TBS (05.16-9:00PM ET)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148519
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="*NBA15: TBS (05.16-9:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",*NBA15: TBS (05.16-9:00PM ET)
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="987654NBA15: TBS (05.16-9:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",987654NBA15: TBS (05.16-9:00PM ET)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/57983
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="*NFL NETWORK HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",*NFL NETWORK HD
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="987654NFL NETWORK HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",987654NFL NETWORK HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7961
-#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="*NFL RED ZONE (WATCH MULTIPLE GAMES)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",*NFL RED ZONE (WATCH MULTIPLE GAMES)
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="987654NFL RED ZONE (WATCH MULTIPLE GAMES)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",987654NFL RED ZONE (WATCH MULTIPLE GAMES)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/57984
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="*NFL01:  DRAFT (05.03-10:00AM)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",*NFL01:  DRAFT (05.03-10:00AM)
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="987654NFL01:  DRAFT (05.03-10:00AM)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",987654NFL01:  DRAFT (05.03-10:00AM)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7928
-#EXTINF:-1 tvg-id="NFLSundayTicket713.us" tvg-name="*NFL02: DRAFT (05.03-10:00AM)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",*NFL02: DRAFT (05.03-10:00AM)
+#EXTINF:-1 tvg-id="NFLSundayTicket713.us" tvg-name="987654NFL02: DRAFT (05.03-10:00AM)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",987654NFL02: DRAFT (05.03-10:00AM)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7930
-#EXTINF:-1 tvg-id="NFLSundayTicket706.us" tvg-name="*NFL03: TBS (02.07-11:30PM)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",*NFL03: TBS (02.07-11:30PM)
+#EXTINF:-1 tvg-id="NFLSundayTicket706.us" tvg-name="987654NFL03: TBS (02.07-11:30PM)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",987654NFL03: TBS (02.07-11:30PM)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7937
-#EXTINF:-1 tvg-id="NFLSundayTicket706.us" tvg-name="*NFL04: TBS (02.07-11:30PM)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",*NFL04: TBS (02.07-11:30PM)
+#EXTINF:-1 tvg-id="NFLSundayTicket706.us" tvg-name="987654NFL04: TBS (02.07-11:30PM)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",987654NFL04: TBS (02.07-11:30PM)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7936
-#EXTINF:-1 tvg-id="NFLSundayTicket707.us" tvg-name="*NFL05: TBS (02.07-11:30PM)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",*NFL05: TBS (02.07-11:30PM)
+#EXTINF:-1 tvg-id="NFLSundayTicket707.us" tvg-name="987654NFL05: TBS (02.07-11:30PM)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",987654NFL05: TBS (02.07-11:30PM)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7935
-#EXTINF:-1 tvg-id="NFLSundayTicket708.us" tvg-name="*NFL06: TBS (02.07-11:30PM)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",*NFL06: TBS (02.07-11:30PM)
+#EXTINF:-1 tvg-id="NFLSundayTicket708.us" tvg-name="987654NFL06: TBS (02.07-11:30PM)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",987654NFL06: TBS (02.07-11:30PM)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7934
-#EXTINF:-1 tvg-id="NFLSundayTicket709.us" tvg-name="*NFL07: TBS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",*NFL07: TBS
+#EXTINF:-1 tvg-id="NFLSundayTicket709.us" tvg-name="987654NFL07: TBS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",987654NFL07: TBS
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7933
-#EXTINF:-1 tvg-id="NFLSundayTicket710.us" tvg-name="*NFL08: TBS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",*NFL08: TBS
+#EXTINF:-1 tvg-id="NFLSundayTicket710.us" tvg-name="987654NFL08: TBS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",987654NFL08: TBS
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7932
-#EXTINF:-1 tvg-id="NFLSundayTicket711.us" tvg-name="*NFL09: TBS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",*NFL09: TBS
+#EXTINF:-1 tvg-id="NFLSundayTicket711.us" tvg-name="987654NFL09: TBS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",987654NFL09: TBS
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7931
-#EXTINF:-1 tvg-id="NFLSundayTicket710.us" tvg-name="*NFL10: TBS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",*NFL10: TBS
+#EXTINF:-1 tvg-id="NFLSundayTicket710.us" tvg-name="987654NFL10: TBS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",987654NFL10: TBS
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7929
-#EXTINF:-1 tvg-id="NFLSundayTicket715.us" tvg-name="*NFL11: TBS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",*NFL11: TBS
+#EXTINF:-1 tvg-id="NFLSundayTicket715.us" tvg-name="987654NFL11: TBS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",987654NFL11: TBS
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7927
-#EXTINF:-1 tvg-id="NFLSundayTicket716.us" tvg-name="*NFL12: TBS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",*NFL12: TBS
+#EXTINF:-1 tvg-id="NFLSundayTicket716.us" tvg-name="987654NFL12: TBS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",987654NFL12: TBS
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7926
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="*NFL13: TBS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",*NFL13: TBS
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="987654NFL13: TBS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",987654NFL13: TBS
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/57981
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="*NFL14: TBS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",*NFL14: TBS
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="987654NFL14: TBS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",987654NFL14: TBS
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/57982
-#EXTINF:-1 tvg-id="NFLSundayTicket717.us" tvg-name="*NFL15: TBS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",*NFL15: TBS
+#EXTINF:-1 tvg-id="NFLSundayTicket717.us" tvg-name="987654NFL15: TBS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",987654NFL15: TBS
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7925
-#EXTINF:-1 tvg-id="HBO.ca" tvg-name="**HBO 1 CANADA HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_tw.png" group-title="HBO // LIVE MOVIES",**HBO 1 CANADA HD
+#EXTINF:-1 tvg-id="HBO.ca" tvg-name="HBO 1 CANADA HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_tw.png" group-title="HBO // LIVE MOVIES",HBO 1 CANADA HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21084
-#EXTINF:-1 tvg-id="HBO2.ca" tvg-name="**HBO 2 CANADA HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo2_lam.png" group-title="HBO // LIVE MOVIES",**HBO 2 CANADA HD
+#EXTINF:-1 tvg-id="HBO2.ca" tvg-name="HBO 2 CANADA HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo2_lam.png" group-title="HBO // LIVE MOVIES",HBO 2 CANADA HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/5002
-#EXTINF:-1 tvg-id="HBO2.us" tvg-name="**HBO 2 US HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo2_lam.png" group-title="HBO // LIVE MOVIES",**HBO 2 US HD
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO 2 US HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo2_lam.png" group-title="HBO // LIVE MOVIES",HBO 2 US HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20904
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="**HBO EAST USA" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_tw.png" group-title="HBO // LIVE MOVIES",**HBO EAST USA
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO EAST USA" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_tw.png" group-title="HBO // LIVE MOVIES",HBO EAST USA
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148633
-#EXTINF:-1 tvg-id="" tvg-name="**HBO WEST HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_tw.png" group-title="HBO // LIVE MOVIES",**HBO WEST HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO WEST HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_tw.png" group-title="HBO // LIVE MOVIES",HBO WEST HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148634
-#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="**HBO FAMILY EAST HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_family_asia.png" group-title="HBO // LIVE MOVIES",**HBO FAMILY EAST HD
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO FAMILY EAST HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_family_asia.png" group-title="HBO // LIVE MOVIES",HBO FAMILY EAST HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7855
-#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="**HBO COMEDY US" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_comedy_east.png" group-title="HBO // LIVE MOVIES",**HBO COMEDY US
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO COMEDY US" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_comedy_east.png" group-title="HBO // LIVE MOVIES",HBO COMEDY US
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7885
-#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="**HBO SIGNATURE US" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_signature_br.png" group-title="HBO // LIVE MOVIES",**HBO SIGNATURE US
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="HBO SIGNATURE US" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_signature_br.png" group-title="HBO // LIVE MOVIES",HBO SIGNATURE US
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7854
-#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="**HBO ZONE EAST HD US" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo-zone-us.png" group-title="HBO // LIVE MOVIES",**HBO ZONE EAST HD US
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBO ZONE EAST HD US" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo-zone-us.png" group-title="HBO // LIVE MOVIES",HBO ZONE EAST HD US
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7883
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="**HBO ZONE WEST HD US" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo-zone-us.png" group-title="HBO // LIVE MOVIES",**HBO ZONE WEST HD US
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO ZONE WEST HD US" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo-zone-us.png" group-title="HBO // LIVE MOVIES",HBO ZONE WEST HD US
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/275730
-#EXTINF:-1 tvg-id="Starz1.ca" tvg-name="**STARZ 1 HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_us_east.png" group-title="HBO // LIVE MOVIES",**STARZ 1 HD
+#EXTINF:-1 tvg-id="Starz1.ca" tvg-name="STARZ 1 HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_us_east.png" group-title="HBO // LIVE MOVIES",STARZ 1 HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20888
-#EXTINF:-1 tvg-id="Starz2.ca" tvg-name="**STARZ 2 HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_us_east.png" group-title="HBO // LIVE MOVIES",**STARZ 2 HD
+#EXTINF:-1 tvg-id="Starz2.ca" tvg-name="STARZ 2 HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_us_east.png" group-title="HBO // LIVE MOVIES",STARZ 2 HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20872
-#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="**STARZ EDGE HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_us_edge_east.png" group-title="HBO // LIVE MOVIES",**STARZ EDGE HD
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="STARZ EDGE HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_us_edge_east.png" group-title="HBO // LIVE MOVIES",STARZ EDGE HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15442
-#EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="**STARZ IN BLACK HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_encore_us_black_east.png" group-title="HBO // LIVE MOVIES",**STARZ IN BLACK HD
+#EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="STARZ IN BLACK HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_encore_us_black_east.png" group-title="HBO // LIVE MOVIES",STARZ IN BLACK HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20893
-#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="**STARZ CINEMA HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_us_cinema_east.png" group-title="HBO // LIVE MOVIES",**STARZ CINEMA HD
+#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="STARZ CINEMA HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_us_cinema_east.png" group-title="HBO // LIVE MOVIES",STARZ CINEMA HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7876
-#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="**STARZ COMEDY HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_us_comedy_east.png" group-title="HBO // LIVE MOVIES",**STARZ COMEDY HD
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="STARZ COMEDY HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_us_comedy_east.png" group-title="HBO // LIVE MOVIES",STARZ COMEDY HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20889
-#EXTINF:-1 tvg-id="StarzKidsFamily.us" tvg-name="**STARZ KIDS & FAMILY HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_us_kids_family_east.png" group-title="HBO // LIVE MOVIES",**STARZ KIDS & FAMILY HD
+#EXTINF:-1 tvg-id="StarzKidsFamily.us" tvg-name="STARZ KIDS & FAMILY HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_us_kids_family_east.png" group-title="HBO // LIVE MOVIES",STARZ KIDS & FAMILY HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20873
-#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="**STARZ ENCORE HD" tvg-logo="https://webcdn3.cox.com/content/dam/cox/residential/images/promo/promo_xtra_premiums.png" group-title="HBO // LIVE MOVIES",**STARZ ENCORE HD
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="STARZ ENCORE HD" tvg-logo="https://webcdn3.cox.com/content/dam/cox/residential/images/promo/promo_xtra_premiums.png" group-title="HBO // LIVE MOVIES",STARZ ENCORE HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20892
-#EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-name="**STARZ ENCORE BLACK HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_us_in_black_east.png" group-title="HBO // LIVE MOVIES",**STARZ ENCORE BLACK HD
+#EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-name="STARZ ENCORE BLACK HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_us_in_black_east.png" group-title="HBO // LIVE MOVIES",STARZ ENCORE BLACK HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20870
-#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="**STARZ ENCORE ACTION HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_encore_us_action_east.png" group-title="HBO // LIVE MOVIES",**STARZ ENCORE ACTION HD
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="STARZ ENCORE ACTION HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_encore_us_action_east.png" group-title="HBO // LIVE MOVIES",STARZ ENCORE ACTION HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/150516
-#EXTINF:-1 tvg-id="StarzEncoreFamily.us" tvg-name="**STARZ ENCORE FAMILY HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_encore_us_family_east.png" group-title="HBO // LIVE MOVIES",**STARZ ENCORE FAMILY HD
+#EXTINF:-1 tvg-id="StarzEncoreFamily.us" tvg-name="STARZ ENCORE FAMILY HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_encore_us_family_east.png" group-title="HBO // LIVE MOVIES",STARZ ENCORE FAMILY HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20890
-#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-name="**STARZ ENCORE SUSPENSE HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_encore_us_suspense_east.png" group-title="HBO // LIVE MOVIES",**STARZ ENCORE SUSPENSE HD
+#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-name="STARZ ENCORE SUSPENSE HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_encore_us_suspense_east.png" group-title="HBO // LIVE MOVIES",STARZ ENCORE SUSPENSE HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20900
-#EXTINF:-1 tvg-id="StarzEncoreClassics.us" tvg-name="**STARZ ENCORE CLASSIC HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_encore_us_classic_east.png" group-title="HBO // LIVE MOVIES",**STARZ ENCORE CLASSIC HD
+#EXTINF:-1 tvg-id="StarzEncoreClassics.us" tvg-name="STARZ ENCORE CLASSIC HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_encore_us_classic_east.png" group-title="HBO // LIVE MOVIES",STARZ ENCORE CLASSIC HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20887
-#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="**STARZ ENCORE WESTERNS HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_encore_us_westerns_east.png" group-title="HBO // LIVE MOVIES",**STARZ ENCORE WESTERNS HD
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="STARZ ENCORE WESTERNS HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_encore_us_westerns_east.png" group-title="HBO // LIVE MOVIES",STARZ ENCORE WESTERNS HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20886
-#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="**CINEMAX MOREMAX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/more_max_west.png" group-title="HBO // LIVE MOVIES",**CINEMAX MOREMAX HD
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="CINEMAX MOREMAX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/more_max_west.png" group-title="HBO // LIVE MOVIES",CINEMAX MOREMAX HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20907
-#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="**CINEMAX EAST HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/cinemax_east.png" group-title="HBO // LIVE MOVIES",**CINEMAX EAST HD
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="CINEMAX EAST HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/cinemax_east.png" group-title="HBO // LIVE MOVIES",CINEMAX EAST HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20906
-#EXTINF:-1 tvg-id="OuterMax.us" tvg-name="**CINEMAX OUTERMAX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/outer_max_us.png" group-title="HBO // LIVE MOVIES",**CINEMAX OUTERMAX HD
+#EXTINF:-1 tvg-id="OuterMax.us" tvg-name="CINEMAX OUTERMAX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/outer_max_us.png" group-title="HBO // LIVE MOVIES",CINEMAX OUTERMAX HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20905
-#EXTINF:-1 tvg-id="MOVIEplex.us" tvg-name="**CINEMAX MOVIEMAX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/movie_max_us.png" group-title="HBO // LIVE MOVIES",**CINEMAX MOVIEMAX HD
+#EXTINF:-1 tvg-id="MOVIEplex.us" tvg-name="CINEMAX MOVIEMAX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/movie_max_us.png" group-title="HBO // LIVE MOVIES",CINEMAX MOVIEMAX HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20897
-#EXTINF:-1 tvg-id="5StarMax.us" tvg-name="**CINEMAX 5 STARMAX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/5_star_max_us.png" group-title="HBO // LIVE MOVIES",**CINEMAX 5 STARMAX HD
+#EXTINF:-1 tvg-id="5StarMax.us" tvg-name="CINEMAX 5 STARMAX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/5_star_max_us.png" group-title="HBO // LIVE MOVIES",CINEMAX 5 STARMAX HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7892
-#EXTINF:-1 tvg-id="ActionMax.us" tvg-name="**CINEMAX ACTIONMAX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/action_max_west.png" group-title="HBO // LIVE MOVIES",**CINEMAX ACTIONMAX HD
+#EXTINF:-1 tvg-id="ActionMax.us" tvg-name="CINEMAX ACTIONMAX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/action_max_west.png" group-title="HBO // LIVE MOVIES",CINEMAX ACTIONMAX HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20898
-#EXTINF:-1 tvg-id="INDIEplex.us" tvg-name="**INDIEPLEX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_indieplex.png" group-title="HBO // LIVE MOVIES",**INDIEPLEX HD
+#EXTINF:-1 tvg-id="INDIEplex.us" tvg-name="INDIEPLEX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_indieplex.png" group-title="HBO // LIVE MOVIES",INDIEPLEX HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/67141
-#EXTINF:-1 tvg-id="MOVIEplex.us" tvg-name="**MOVIEPLEX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_movieplex.png" group-title="HBO // LIVE MOVIES",**MOVIEPLEX HD
+#EXTINF:-1 tvg-id="MOVIEplex.us" tvg-name="MOVIEPLEX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_movieplex.png" group-title="HBO // LIVE MOVIES",MOVIEPLEX HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30427
-#EXTINF:-1 tvg-id="RETROplex.us" tvg-name="**RETRO PLEX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_retroplex.png" group-title="HBO // LIVE MOVIES",**RETRO PLEX HD
+#EXTINF:-1 tvg-id="RETROplex.us" tvg-name="RETRO PLEX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_retroplex.png" group-title="HBO // LIVE MOVIES",RETRO PLEX HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20899
-#EXTINF:-1 tvg-id="Crave1.ca" tvg-name="**CRAVE 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/TMN_Encore_Logo.png/160px-TMN_Encore_Logo.png" group-title="HBO // LIVE MOVIES",**CRAVE 1 HD
+#EXTINF:-1 tvg-id="Crave1.ca" tvg-name="CRAVE 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/TMN_Encore_Logo.png/160px-TMN_Encore_Logo.png" group-title="HBO // LIVE MOVIES",CRAVE 1 HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21036
-#EXTINF:-1 tvg-id="Crave2.ca" tvg-name="**CRAVE 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/The_Movie_Network_Logo.svg/120px-The_Movie_Network_Logo.svg.png" group-title="HBO // LIVE MOVIES",**CRAVE 2 HD
+#EXTINF:-1 tvg-id="Crave2.ca" tvg-name="CRAVE 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/The_Movie_Network_Logo.svg/120px-The_Movie_Network_Logo.svg.png" group-title="HBO // LIVE MOVIES",CRAVE 2 HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21035
-#EXTINF:-1 tvg-id="Crave3.ca" tvg-name="**CRAVE 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/TMN_Encore_Logo.png/160px-TMN_Encore_Logo.png" group-title="HBO // LIVE MOVIES",**CRAVE 3 HD
+#EXTINF:-1 tvg-id="Crave3.ca" tvg-name="CRAVE 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/TMN_Encore_Logo.png/160px-TMN_Encore_Logo.png" group-title="HBO // LIVE MOVIES",CRAVE 3 HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21034
-#EXTINF:-1 tvg-id="Crave4.ca" tvg-name="**CRAVE 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/TMN_Encore_Logo.png/160px-TMN_Encore_Logo.png" group-title="HBO // LIVE MOVIES",**CRAVE 4 HD
+#EXTINF:-1 tvg-id="Crave4.ca" tvg-name="CRAVE 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/TMN_Encore_Logo.png/160px-TMN_Encore_Logo.png" group-title="HBO // LIVE MOVIES",CRAVE 4 HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21033
-#EXTINF:-1 tvg-id="SuperEcran.ca" tvg-name="**SUPER ECRAN 1" tvg-logo="http://glmtv.pw/logo/prestige/Canada/super_ecran1.png" group-title="HBO // LIVE MOVIES",**SUPER ECRAN 1
+#EXTINF:-1 tvg-id="SuperEcran.ca" tvg-name="SUPER ECRAN 1" tvg-logo="http://glmtv.pw/logo/prestige/Canada/super_ecran1.png" group-title="HBO // LIVE MOVIES",SUPER ECRAN 1
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/4970
-#EXTINF:-1 tvg-id="SuperEcran2.ca" tvg-name="**SUPER ECRAN 2" tvg-logo="http://glmtv.pw/logo/prestige/Canada/super_ecran2.png" group-title="HBO // LIVE MOVIES",**SUPER ECRAN 2
+#EXTINF:-1 tvg-id="SuperEcran2.ca" tvg-name="SUPER ECRAN 2" tvg-logo="http://glmtv.pw/logo/prestige/Canada/super_ecran2.png" group-title="HBO // LIVE MOVIES",SUPER ECRAN 2
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/4969
-#EXTINF:-1 tvg-id="SuperEcran3.ca" tvg-name="**SUPER ECRAN 3" tvg-logo="http://glmtv.pw/logo/prestige/Canada/super_ecran3.png" group-title="HBO // LIVE MOVIES",**SUPER ECRAN 3
+#EXTINF:-1 tvg-id="SuperEcran3.ca" tvg-name="SUPER ECRAN 3" tvg-logo="http://glmtv.pw/logo/prestige/Canada/super_ecran3.png" group-title="HBO // LIVE MOVIES",SUPER ECRAN 3
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21044
-#EXTINF:-1 tvg-id="SuperEcran4.ca" tvg-name="**SUPER ECRAN 4" tvg-logo="http://glmtv.pw/logo/prestige/Canada/super_ecran4.png" group-title="HBO // LIVE MOVIES",**SUPER ECRAN 4
+#EXTINF:-1 tvg-id="SuperEcran4.ca" tvg-name="SUPER ECRAN 4" tvg-logo="http://glmtv.pw/logo/prestige/Canada/super_ecran4.png" group-title="HBO // LIVE MOVIES",SUPER ECRAN 4
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21043
-#EXTINF:-1 tvg-id="Showcase.ca" tvg-name="**CANADA SHOWCASE" tvg-logo="http://glmtv.pw/logo/prestige/Canada/showcase_ca.png" group-title="HBO // LIVE MOVIES",**CANADA SHOWCASE
+#EXTINF:-1 tvg-id="Showcase.ca" tvg-name="CANADA SHOWCASE" tvg-logo="http://glmtv.pw/logo/prestige/Canada/showcase_ca.png" group-title="HBO // LIVE MOVIES",CANADA SHOWCASE
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/94402
-#EXTINF:-1 tvg-id="Showtime.us" tvg-name="**SHOWTIME HD" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/Showtime.png" group-title="HBO // LIVE MOVIES",**SHOWTIME HD
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="SHOWTIME HD" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/Showtime.png" group-title="HBO // LIVE MOVIES",SHOWTIME HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/67138
-#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="**SHOWTIME 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/250px-Showtime.svg.png" group-title="HBO // LIVE MOVIES",**SHOWTIME 2 HD
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="SHOWTIME 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/250px-Showtime.svg.png" group-title="HBO // LIVE MOVIES",SHOWTIME 2 HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20894
-#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="**SHOWTIME NEXT EAST HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/showtime_next_east.png" group-title="HBO // LIVE MOVIES",**SHOWTIME NEXT EAST HD
+#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="SHOWTIME NEXT EAST HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/showtime_next_east.png" group-title="HBO // LIVE MOVIES",SHOWTIME NEXT EAST HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/393657
-#EXTINF:-1 tvg-id="Showtime.us" tvg-name="**SHOWTIME WEST HD" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/Showtime.png" group-title="HBO // LIVE MOVIES",**SHOWTIME WEST HD
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="SHOWTIME WEST HD" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/Showtime.png" group-title="HBO // LIVE MOVIES",SHOWTIME WEST HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/67140
-#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="**SHOWTIME EXTREME HD" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/Showtime.png" group-title="HBO // LIVE MOVIES",**SHOWTIME EXTREME HD
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="SHOWTIME EXTREME HD" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/Showtime.png" group-title="HBO // LIVE MOVIES",SHOWTIME EXTREME HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/67139
-#EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-name="**SHOWTIME SHOWCASE HD" tvg-logo="https://webcdn3.cox.com/content/dam/cox/residential/images/promo/promo_xtra_premiums.png" group-title="HBO // LIVE MOVIES",**SHOWTIME SHOWCASE HD
+#EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-name="SHOWTIME SHOWCASE HD" tvg-logo="https://webcdn3.cox.com/content/dam/cox/residential/images/promo/promo_xtra_premiums.png" group-title="HBO // LIVE MOVIES",SHOWTIME SHOWCASE HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20874
-#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="**SONY MOVIE HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/sony-movies-us-uk.png" group-title="HBO // LIVE MOVIES",**SONY MOVIE HD
+#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="SONY MOVIE HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/sony-movies-us-uk.png" group-title="HBO // LIVE MOVIES",SONY MOVIE HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20896
-#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="**LIFETIME MOVIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/200px-Lifetime_logo17.svg.png" group-title="HBO // LIVE MOVIES",**LIFETIME MOVIES HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21074
+#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="LIFETIME MOVIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/200px-Lifetime_logo17.svg.png" group-title="HBO // LIVE MOVIES",LIFETIME MOVIES HD
