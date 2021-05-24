@@ -491,16 +491,16 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15412
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15449
 #EXTINF:-1 tvg-logo="http://epg4you.com/logos/nationalgeographic.png" group-title="UK", National Geographic
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15448
-#EXTINF:-1 tvg-logo="http://epg4you.com/logos/skycinemascifiandhorrorhd.png" group-title="UK", Sci Fi & Horror
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15414
-#EXTINF:-1 tvg-logo="http://epg4you.com/logos/cbsdrama.png" group-title="UK", Sky Cinema Drama
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15496
-#EXTINF:-1 tvg-logo="http://epg4you.com/logos/skycinemapremierehd.png" group-title="UK", Sky Family
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15415
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-cinema-action-uk.png" group-title="UK", Sky Cinema Action
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15372
-#EXTINF:-1 tvg-logo="http://epg4you.com/logos/skycinemaselecthd.png" group-title="UK", Sky Cinema Hits
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-drama-uk.png" group-title="UK", Sky Cinema Drama
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15496
+#EXTINF:-1 tvg-logo="https://archive.org/download/SkyCinemaFamilyHd/sky%20cinema%20family%20hd.png" group-title="UK", Sky Cinema Family
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15415
+#EXTINF:-1 tvg-logo="https://archive.org/download/SkyCinemaHitsHd/sky%20cinema%20hits%20hd.png" group-title="UK", Sky Cinema Hits
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15404
+#EXTINF:-1 tvg-logo="http://epg4you.com/logos/skycinemascifiandhorrorhd.png" group-title="UK", Sky Cinema Sci Fi & Horror
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15414
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-news-uk.png" group-title="UK", Sky News
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/154497
 #EXTINF:-1 tvg-logo="http://epg4you.com/logos/sky1.png" group-title="UK", Sky One
