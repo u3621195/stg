@@ -1,4 +1,50 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://glmtv.pw/logo/prestige/United-States/tbs_east.png" group-title="Favourite", TBS East
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15527
+#EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/United-States/fxx_east.png" group-title="Favourite", FXX
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7886
+#EXTINF: -1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/and-flix-hd.jpg" group-title="Favourite", &Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF: -1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/and-prive-hd.jpg" group-title="Favourite", &Privé HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/axn.jpg" group-title="Favourite", AXN HD
+https://www.we-play.tv/watching/tv/axn-hd
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BLUE-ANT-ENTERTAINMENT-LOGO-BLK_CMYK.jpg" group-title="Favourite", Blue Ant Entertainment
+https://www.we-play.tv/watching/tv/blueant-entertainment
+#EXTINF: -1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_movies_premium_asia.jpg" group-title="Favourite", Fox Movies Premium
+https://www.we-play.tv/watching/tv/fox-movies-soundtrack
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png" group-title="Favourite", Fox Action Movies
+https://www.we-play.tv/watching/tv/fox-action-movies
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png" group-title="Favourite", Fox Family Movies
+https://www.we-play.tv/watching/tv/fox-family-movies
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="Favourite", HBO HD
+https://www.we-play.tv/watching/tv/hbo-hd
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/hbo_family.jpg" group-title="Favourite", HBO Family
+https://www.we-play.tv/watching/tv/hbo-family
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg" group-title="Favourite", HBO Hits
+https://www.we-play.tv/watching/tv/hbo-hits
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbosignature.jpg" group-title="Favourite", HBO Signature
+https://www.we-play.tv/watching/tv/hbo-signature
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/golf_channel_th.jpg" group-title="Favourite", Golf Channel
+https://www.we-play.tv/watching/tv/golf-channel
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-liverpool.jpg" group-title="Favourite", LFCTV
+https://www.livedoomovie.com/02_lfctv_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png" group-title="Favourite", Premiere Football HD 1
+https://www.we-play.tv/watching/tv/true-premier-football-hd-1
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png" group-title="Favourite", Premiere Football HD 2
+https://www.we-play.tv/watching/tv/true-premier-football-hd-2
+#EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/United-States/tv_land_west.png" group-title="Favourite", TV Land
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52963
+#EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-cinema-action-uk.png" group-title="Favourite", Sky Cinema Action
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15372
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-drama-uk.png" group-title="Favourite", Sky Cinema Drama
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15496
+#EXTINF:-1 tvg-logo="https://archive.org/download/SkyCinemaFamilyHd/sky%20cinema%20family%20hd.png" group-title="Favourite", Sky Cinema Family
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15415
+#EXTINF:-1 tvg-logo="https://archive.org/download/SkyCinemaHitsHd/sky%20cinema%20hits%20hd.png" group-title="Favourite", Sky Cinema Hits
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15404
+#EXTINF:-1 tvg-logo="http://epg4you.com/logos/skycinemascifiandhorrorhd.png" group-title="Favourite", Sky Cinema Sci Fi & Horror
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15414
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch3.png" group-title="Digital TV", 3HD
 https://www.we-play.tv/watching/tv/ch3-hd
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch5.png" group-title="Digital TV", 5HD
