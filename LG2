@@ -255,13 +255,13 @@ https://ustvgo.tv/we-tv/
 https://ustvgo.tv/wwe-network/
 #EXTINF:-1 tvg-logo="http://glmtv.pw/logo/prestige/United-States/ae_us.png" group-title="US", A&E
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7918
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/190px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="US", Animal Planet
+#EXTINF:-1 tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg" group-title="US", Animal Planet
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7868
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/United-States/bbc_america_east.png" group-title="US", BBC America
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30418
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/United-States/bbc_america_east.png" group-title="US", BBC World News
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/342101
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bloomberg_News_logo.png/220px-Bloomberg_News_logo.png" group-title="US", Bloomberg
+#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQGAH_i8FRg-uw/company-logo_200_200/0/1525302924134?e=2159024400&v=beta&t=U1yKFoI6RVpZcBafGELtrieAkRf2cPBRQHw_1Ss6aBc" group-title="US", Bloomberg
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7904
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/United-States/cnbc_us.png" group-title="US", CNBC
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7872
@@ -271,9 +271,9 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7986
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7985
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/United-States/discovery-channel-east-us.png" group-title="US", Discovery Channel
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7889
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/200px-InvestigationDiscovery.png" group-title="US", Discovery Life
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Discovery_Life_logo_2016.svg/1200px-Discovery_Life_logo_2016.svg.png" group-title="US", Discovery Life
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52965
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png" group-title="US", Discovery Science
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/16-163214_discovery-science-hd-discovery-science-channel-logo.png" group-title="US", Discovery Science
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7907
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/Canada/e_global_us.png" group-title="US", E! Entertainment East
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15495
@@ -291,11 +291,11 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7886
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7858
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/United-States/hgtv_us.png" group-title="US", HGTV US
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7917
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/07/History_channel_us.png/200px-History_channel_us.png" group-title="US", History Channel
+#EXTINF:-1 tvg-logo="https://www.history.com/assets/images/history/generic-thumb.jpg" group-title="US", History Channel
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7852
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0023/0517/brand.gif?itok=idFNXQCE" group-title="US", Life Time
+#EXTINF:-1 tvg-logo="https://www.mylifetime.com/assets/images/lifetime/generic-thumb.jpg" group-title="US", Life Time
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7849
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/ID_Canada_Logo.png" group-title="US", Motor Trend
+#EXTINF:-1 tvg-logo="https://mtg-mtod-production.s3-us-west-2.amazonaws.com/images/motortrend-og.png" group-title="US", Motor Trend
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7850
 #EXTINF:-1 tvg-logo="http://www.vector-logo.net/logo_preview/eps/m/mtv.png" group-title="US", MTV
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7921
@@ -443,7 +443,7 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/311867
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7988
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/United-States/world_wrestling_entertainment.png" group-title="Sports", WWE Network
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/325241
-#EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/animal-planet-uk-plus1-us-uk.png" group-title="UK", Animal Planet
+#EXTINF:-1 tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg" group-title="UK", Animal Planet
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15421
 #EXTINF:-1 tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK", BBC One
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15548
