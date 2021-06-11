@@ -55,6 +55,8 @@ https://www.we-play.tv/watching/tv/ch7-hd
 https://www.we-play.tv/watching/tv/mcot-hd
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tpbs.png" group-title="Digital TV", TPBS
 https://www.we-play.tv/watching/tv/thai-pbs
+#EXTINF: -1 tvg-logo="https://www.img05.xyz/assets/img/ch_logo/sd-nbt.png" group-title="Digital TV", NBT
+https://we-play.live/watching/tv/11-nbt
 #EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-nation.png" group-title="Digital TV", Nation TV
 https://www.we-play.tv/watching/tv/nationtv
 #EXTINF: -1 tvg-logo="https://www.topnews.co.th/wp-content/uploads/2021/01/cropped-topnews-site-logo-3.webp" group-title="Digital TV", Top News
