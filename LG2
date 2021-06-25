@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://glmtv.pw/logo/prestige/United-States/tbs_east.png" group-title="Favourite", TBS East
+#EXTINF: -1 tvg-logo="https://www.pngitem.com/pimgs/m/203-2035446_tbs-network-logo-png-transparent-png.png" group-title="Favourite", TBS USA
+https://ustvgo.tv/tbs-channel-live-free/
+#EXTINF: -1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/fxx_us.jpg" group-title="Favourite", FXX USA
+https://ustvgo.tv/fxx/
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/203-2035446_tbs-network-logo-png-transparent-png.png" group-title="Favourite", TBS East
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15527
-#EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/United-States/fxx_east.png" group-title="Favourite", FXX
+#EXTINF:-1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/fxx_us.jpg" group-title="Favourite", FXX
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7886
 #EXTINF: -1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/and-flix-hd.jpg" group-title="Favourite", &Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
